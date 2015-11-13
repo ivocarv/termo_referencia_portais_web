@@ -13,7 +13,7 @@ Que tal!
 blablabal
 
 blaba
-=============================================
+=====
 ~~show ne?~~
 
 Sim sim, agora sim.
@@ -22,4 +22,4 @@ Sim sim, agora sim.
 e umas bobagens.
 
 çakldjfasldkf
-================
+=============
