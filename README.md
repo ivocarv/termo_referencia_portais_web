@@ -1,5 +1,3 @@
-Termo de Referencia para Contratação de POrtais Web
-======================================================
+Termo de Referência para Contratação de Portais Web
+=====================================================
 
-
-Thim file file serves as your book's preface, a great place to describe your book's content and ideas.
