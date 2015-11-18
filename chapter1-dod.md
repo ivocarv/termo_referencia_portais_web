@@ -20,7 +20,8 @@
 | **E-mail do Integrante Requisitante:** | luiz.lgsb@dpf.gov.br |
 | **Fonte de Recursos:** | Orçamento Polícia Federal |||
 
-| **DEMAIS INTEGRANTES DE EQUIPE DE PLANEJAMENTO DA CONTRATAÇÃO** |
+**DEMAIS INTEGRANTES DE EQUIPE DE PLANEJAMENTO DA CONTRATAÇÃO** 
+||
 | --- |
 |****Integrante Técnico:** | Luiz Geraldo Silva Braz | **Telefone do I.T.:** | 2024-9455 |
 | **E-mail do Integrante Técnico:** | a_definir@dpf.gov.br |||
