@@ -48,8 +48,6 @@
 
 Aprovo o prosseguimento da contratação, considerando sua relevância e oportunidade em relação aos objetivos estratégicos e as necessidades da Área Requisitante.Em conformidade com o Art. 9°, § 2° da Instrução Normativa n° 4 de 12 de novembro de 2010, emitida pela Secretaria de Logística e Tecnologia da Informação do Ministério do Planejamento, Orçamento e Gestão, encaminha-se ao Coordenador Geral de Tecnologia da Informação para :I - decidir motivadamente sobre o prosseguimento da contratação;II - indicar o Integrante Administrativo para composição da Equipe de Planejamento da Contratação, quando da continuidade da contratação; eIII - instituir a Equipe de Planejamento da Contratação conforme exposto no art. 2º, inciso III da IN 04 /2010. 
 
-**Área Requisitante da Solução**
-
 ~~NOME DO INTEGRANTE REQUISITANTE~~
 
 Brasília, 27 de março de 2013. 
