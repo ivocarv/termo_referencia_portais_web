@@ -9,25 +9,22 @@
 **DOCUMENTO DE OFICIALIZAÇÃO DA DEMANDA**
 
 
-| **IDENTIFICAÇÃO DO REQUISITANTE DA SOLUÇÃO** |
+| **IDENTIFICAÇÃO DO REQUISITANTE DA SOLUÇÃO** |||
 | -- |
 | **Unidade:** | SDS/DINF/CGTI/DG/DPF | **Data:** | 27/03/2012 |
 | **Nome do Projeto:** | Serviço de desenvolvimento e manutenção de portais corporativos (websites) |
-| **Responsável pela Demanda:** | a definir | **Telefone do Resp.:** | 2024-9455 |
+| **Responsável pela Demanda:** | NOME_DO_RESPONSAVEL_PELA_DEMANDA | **Telefone do Resp.:** | 2024-9455 |
 | **E-mail do Responsável:** | luiz.lgsb@dpf.gov.br | **SIAPE do Resp.:** | 1577531 |
 | **Integrante Requisitante:** | Luiz Geraldo Silva Braz | **Telefone do I.R..:** | 2024-0000 |
 | **E-mail do Integrante Requisitante:** | luiz.lgsb@dpf.gov.br |
-| **Fonte de Recursos:** | Orçamento Polícia Federal |
+| **Fonte de Recursos:** | Orçamento Polícia Federal |||
 
 | **DEMAIS INTEGRANTES DE EQUIPE DE PLANEJAMENTO DA CONTRATAÇÃO** |
 | --- |
-|
-
-****Integrante Técnico:**
- | Luiz Geraldo Silva Braz | **Telefone do I.T.:** | 2024-9455 |
-| **E-mail do Integrante Técnico:** | a_definir@dpf.gov.br |
+|****Integrante Técnico:** | Luiz Geraldo Silva Braz | **Telefone do I.T.:** | 2024-9455 |
+| **E-mail do Integrante Técnico:** | a_definir@dpf.gov.br |||
 | **Integrante Administrativo:** | A definir | **Telefone do I.A.:** | 2024-0000 |
-| **E-mail do Integrante Administrativo:** | [a_definir@dpf.gov.br](mailto:a_definir@dpf.gov.br) |
+| **E-mail do Integrante Administrativo:** | [a_definir@dpf.gov.br] |
 
 | **Id** | **OBJETIVO ESTRATÉGICO** | **Id** | **NECESSIDADE DA CONTRATAÇÃO** |
 | --- | --- | --- | --- |
