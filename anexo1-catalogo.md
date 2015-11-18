@@ -2,17 +2,16 @@
 
 |SERVIÇO|DESCRIÇÃO|PRODUTO DE REFERÊNCIA PARA PAGAMENTO|CUSTO EM UDPF
 | --- |
-|1|Sustentação de portais INTERNET|"Executar atividades operacionais necessárias para administração e manutenção dos portais de INTERNET implantados no DPF| 
-tais como:
-- atender a dúvidas de usuário relacionadas ao sistema gerenciador de conteúdos;
-- treinar gestores dos portais;
-- gerenciar permissões de usuários| grupos| workflows e papéis;
+|1|Sustentação de portais INTERNET|"Executar atividades operacionais necessárias para administração e manutenção dos portais de INTERNET implantados no DPF tais como: 
+- atender a dúvidas de usuário relacionadas ao sistema gerenciador de conteúdos; 
+- treinar gestores dos portais; 
+- gerenciar permissões de usuários grupos, workflows e papéis;  
 - apoiar a restauração de backup;
 - Apoiar equipes de suporte na implantação do portal em ambiente de homologação e produção;
 - executar manutenções de carater corretivo;
 - reposicionar conteúdo nos portais em sustentação;
 - atualização de versões minoritárias;
-- manter as configurações do site atualizadas (regras de conteúdo| configurações do editor visual| do servidor de e-mail| dentre outras)."|Portal sustentado/mês|8 UDPFs/mês|
+- manter as configurações do site atualizadas (regras de conteúdo| configurações do editor visual| do servidor de e-mail| dentre outras)."| Portal sustentado/mês |8 UDPFs/mês|
 
 |2|Sustentação de portais INTRANET|"Executar atividades operacionais necessárias para administração e manutenção dos portais de INTRANET implantados no DPF| tais como:
 - atender a dúvidas de usuário relacionadas ao sistema gerenciador de conteúdos;
