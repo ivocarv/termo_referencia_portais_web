@@ -1,11 +1,16 @@
 **SERVIÇO PÚBLICO FEDERAL**
+
 **MJ – POLÍCIA FEDERAL**
+
 **COORDENAÇÃO–GERAL DE TECNOLOGIA DA INFORMAÇÃO**
+
 **DINF – SERVIÇO DE DESENVOLVIMENTO DE SISTEMAS**
+
 **DOCUMENTO DE OFICIALIZAÇÃO DA DEMANDA**
 
-| **IDENTIFICAÇÃO DA ÁREA REQUISITANTE DA SOLUÇÃO** |
-| --- |
+
+| **IDENTIFICAÇÃO DO REQUISITANTE DA SOLUÇÃO** |
+| -- |
 | **Unidade:** | SDS/DINF/CGTI/DG/DPF | **Data:** | 27/03/2012 |
 | **Nome do Projeto:** | Serviço de desenvolvimento e manutenção de portais corporativos (websites) |
 | **Responsável pela Demanda:** | a definir | **Telefone do Resp.:** | 2024-9455 |
@@ -50,12 +55,25 @@
 |  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_~~NOME DO INTEGRANTE REQUISITANTE~~|
 | Brasília, 27 de março de 2013. |
 
-| **DESPACHO** |
-| --- |
-|  Considerando a motivação e justificativa apresentados pelo solicitante:I - decido pelo prosseguimento da contratação;II - instituo a Equipe de Planejamento da Contratação conforme exposto no art. 2º, inciso III da IN 04 /2010, com os seguintes integrantes:
-1. a.A_DEFINIR como Integrante Administrativo;
-2. b.A_DEFINIR como Integrante Técnico;
-III Encaminhe-se os autos à Equipe de Planejamento da Contratação para continuidade do procedimento. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_~~NOME DO COORDENADOR~~–Geral de Tecnologia da Informação  |
-| Brasília, 01 de Agosto de 2016. |
+**DESPACHO** 
+
+Considerando a motivação e justificativa apresentados pelo solicitante:
+
+I - decido pelo prosseguimento da contratação;
+
+II - instituo a Equipe de Planejamento da Contratação conforme exposto no art. 2º, inciso III da IN 04 /2010, com os seguintes integrantes:
+
+1. ~~NOME DO INTEGRANTE ADMINISTRATIVO~~ como Integrante Administrativo;
+2. ~~NOME DO INTEGRANTE TÈCNICO~~ como Integrante Técnico.
+
+
+III - Encaminhe-se os autos à Equipe de Planejamento da Contratação para continuidade do procedimento. 
+
+**~~NOME DO COORDENADOR GERAL~~**
+
+**Coordenador Geral de Tecnologia da Informação** 
+
+**Brasília, 01 de Agosto de 2016.** 
+
 
 
