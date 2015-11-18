@@ -8,9 +8,10 @@
 
 **DOCUMENTO DE OFICIALIZAÇÃO DA DEMANDA**
 
+**IDENTIFICAÇÃO DO REQUISITANTE DA SOLUÇÃO** 
 
-| **IDENTIFICAÇÃO DO REQUISITANTE DA SOLUÇÃO** |||
-| -- |
+||
+| - |
 | **Unidade:** | SDS/DINF/CGTI/DG/DPF | **Data:** | 27/03/2012 |
 | **Nome do Projeto:** | Serviço de desenvolvimento e manutenção de portais corporativos (websites) |
 | **Responsável pela Demanda:** | NOME_DO_RESPONSAVEL_PELA_DEMANDA | **Telefone do Resp.:** | 2024-9455 |
