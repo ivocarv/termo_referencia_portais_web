@@ -67,9 +67,7 @@ II - instituo a Equipe de Planejamento da Contratação conforme exposto no art.
 III - Encaminhe-se os autos à Equipe de Planejamento da Contratação para continuidade do procedimento. 
 
 **~~NOME DO COORDENADOR GERAL~~**
-
 **Coordenador Geral de Tecnologia da Informação** 
-
 **Brasília, 01 de Agosto de 2016.** 
 
 
