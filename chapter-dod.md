@@ -1,7 +1,7 @@
 #Documento de Oficialização de Demanda
 
 ##IDENTIFICAÇÃO DA DEMANDA
-**Tipo:** Serviço de Prestação de Serviço de Natureza Continuada sem alocação de mão de obra fixa. 
+**Tipo:** Serviço de Prestação de Serviço de Natureza Continuada sem alocação de mão de obra fixa.    
 **Nome:** Desenvolvimento, manutenção e sustentação de portais web corporativos (websites) 
 
 ##IDENTIFICAÇÃO DO DEMANDANTE   
@@ -12,17 +12,14 @@
 **SIAPE do Resp.:** SIAPE_DO_RESPONSAVEL_PELA_DEMANDA  
 
 ##ALINHAMENTO ESTRATÉGICO 
-###Objetivo Estratégico 1: 
-Melhoria da Infraestrutura e Serviços de TI e Telecomunicações. 
-Ref: Ação estratégica 9.8.2 do PE-DPF  
+###Ação estratégica 9.8.2
+Melhoria da Infraestrutura e Serviços de TI e Telecomunicações.   
+####Objetivo 1.3 
+Garantir a operação e o suporte aos serviços de TI.   
   
-**Necessidade Relacionada no PDTI**
-1. Garantir a continuidade na prestação de serviços e fornecimento de informações ao público externo e interno, através do desenvolvimento da manutenção dos seus websites.
-
-###Objetivo Estratégico 2:
-Garantir a operação e o suporte aos serviços de TI. 
-Ref: Objetivo 1.3 do PE-DPF (Entregar e Suportar). 
- 
+####Necessidades Relacionadas
+1. Garantir a continuidade na prestação de serviços e fornecimento de informações ao público externo e interno, através do desenvolvimento da manutenção dos seus websites.  
+   
 ##MOTIVAÇÃO/JUSTIFICATIVA 
 A Administração Pública Federal precisa aprimorar a sua interação com a sociedade 
 a fim de aumentar a eficiência/eficácia, a qualidade e a transparência de suas ações.
