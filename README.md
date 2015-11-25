@@ -1,11 +1,11 @@
 <img id="brasao" align=top src="brasao.png" alt="Brasão da República"></img>
 <link href="http://kevinburke.bitbucket.org/markdowncss/markdown.css" rel="stylesheet"></link>
-**SERVIÇO PÚBLICO FEDERAL** 
-**MJ – POLÍCIA FEDERAL** 
-**COORDENAÇÃO–GERAL DE TECNOLOGIA DA INFORMAÇÃO** 
-**DINF – SERVIÇO DE DESENVOLVIMENTO DE SISTEMAS** 
-**DOCUMENTO DE OFICIALIZAÇÃO DA DEMANDA** 
-
+**SERVIÇO PÚBLICO FEDERAL**   
+**MJ – POLÍCIA FEDERAL**   
+**COORDENAÇÃO–GERAL DE TECNOLOGIA DA INFORMAÇÃO**   
+**DINF – SERVIÇO DE DESENVOLVIMENTO DE SISTEMAS**   
+**DOCUMENTO DE OFICIALIZAÇÃO DA DEMANDA**   
+  
 # Planejamento da Contratação de Serviço de Tecnologia da Informação
 
 O objetivo deste material é documentar o planejamento da contratação de 
