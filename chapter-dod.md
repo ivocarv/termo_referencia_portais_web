@@ -1,44 +1,43 @@
-#**Documento de Oficialização de Demanda**
+#Documento de Oficialização de Demanda
 
-##**Serviço de desenvolvimento e manutenção de portais corporativos (websites)**##
+##IDENTIFICAÇÃO DA DEMANDA
+**Tipo:** Serviço de Prestação de Serviço de Natureza Continuada sem alocação de mão de obra fixa. 
+**Nome:** Desenvolvimento, manutenção e sustentação de portais web corporativos (websites) 
 
-##**IDENTIFICAÇÃO DO DEMANDANTE**   
+##IDENTIFICAÇÃO DO DEMANDANTE   
 **Unidade:** UNIDADE_DEMANDANTE  
 **Responsável pela Unidade:** NOME_DO_RESPONSAVEL_PELA_DEMANDA   
 **Telefone do Resp.:** TELEFONE_DO_RESPONSAVEL_PELA_DEMANDA  
 **E-mail do Responsável:** EMAIL_DO_RESPONSAVEL_PELA_DEMANDA  
 **SIAPE do Resp.:** SIAPE_DO_RESPONSAVEL_PELA_DEMANDA  
 
-| **Id** | **OBJETIVO ESTRATÉGICO** | **Id** | **NECESSIDADE DA CONTRATAÇÃO** |
-| --- | --- | --- | --- |
-| **1** | Alinhamento com o Planejamento Estratégico da PF, principalmente no tocante à ação estratégica 9.8.2 (Melhoria da Infraestrutura e Serviços de TI e Telecomunicações). | **1** | Garantir a continuidade na prestação de serviços e fornecimento de informações ao público externo e interno da PF - Polícia Federal, através do desenvolvimento  da manutenção dos seus websites. |
-| **2** | Alinhamento com o Planejamento Estratégico de TI, principalmente no tocante ao objetivo 1.3 (Entregar e Suportar). | **2** | Garantir a operação e o suporte aos serviços de TI. |
+##ALINHAMENTO ESTRATÉGICO 
+###Objetivo Estratégico 1: 
+Melhoria da Infraestrutura e Serviços de TI e Telecomunicações. 
+Ref: Ação estratégica 9.8.2 do PE-DPF  
+  
+**Necessidade Relacionada no PDTI**
+1. Garantir a continuidade na prestação de serviços e fornecimento de informações ao público externo e interno, através do desenvolvimento da manutenção dos seus websites.
 
-##**MOTIVAÇÃO/JUSTIFICATIVA** 
-A Administração Pública Federal, nos últimos anos tem buscado aprimorar as suas formas de interação 
-com os cidadãos brasileiros a fim de permitir a eficiência e a transparência governamental, prover 
-a disponibilidade de informações e melhorar a prestação de serviços. 
+###Objetivo Estratégico 2:
+Garantir a operação e o suporte aos serviços de TI. 
+Ref: Objetivo 1.3 do PE-DPF (Entregar e Suportar). 
+ 
+##MOTIVAÇÃO/JUSTIFICATIVA 
+A Administração Pública Federal precisa aprimorar a sua interação com a sociedade 
+a fim de aumentar a eficiência/eficácia, a qualidade e a transparência de suas ações.
 
-As áreas de Tecnologia da Informação e Comunicação – TIC do governo são instrumentos que possibilitam 
-essa interação através de meios eletrônicos, mais comumente por intermédio de portais corporativos. 
+Nesse contexto, os Portais Web mantidos pela Polícia Federal na Internet tem se mostrado 
+fundamentais para prover, de forma ágil e fácil, informações, recursos e serviços capazes de atender 
+boa parte das demandas da Sociedade, junto ao Órgão. 
 
-A PF vem passando por uma crescente demanda de serviços inerentes à suas atribuições institucionais, 
-por sua vez, os seus portais corporativos têm apoiado no cumprimento de sua missão, além de aproximar 
-o cidadão na prestação de serviços essências. Por meio da Internet, rede de comunicação mundial, 
-a PF fornece o acesso à informações institucionais, notícias e orientações e  serviços relativos 
-à imigração e procedimentos relativos a solicitação de passaporte, antecedentes criminais, registro 
-e devolução de armas, segurança privada e produtos químicos.
+Na Intranet, por sua vez, estão disponíveis normativos, orientações, comunicados e serviços 
+importantes para servidores e terceirizados prestarem um bom serviço à sociedade.
 
-Tendo em vista a importância das atividades desempenhadas pela PF em todos os Estados da Federação, 
-seja com Delegacias e postos policiais ou pontos de atendimento ao cidadão em locais de maior acesso 
-ao público, é emergente a necessidade de estar permanentemente em conexão provida através dos 
-portais corporativos.
-
-Por via Intranet, rede de comunicação interna, a PF fornece aos seus 
-servidores e colaboradores o acesso aos sistemas da informação, 
-comunicados oficiais, serviços de gestão de pessoal, dentre vários 
-outros serviços que contribuem para o bom funcionamento do órgão.
-
+Assim sendo, o demandante considera fundamental que a CGTI seja capaz de evoluir e manter em 
+funcionamento os Portais Corporativos de Internet e Intranet em funcionamento, bem como 
+disponibilizar novos 
+portais e capazes de atender tanto as demandas gerais da população 
 Diante da notória celeridade na comunicação que é realizada por meio 
 de um portal corporativo, seu conteúdo deve ser estruturado e planejado 
 conforme as necessidades e particularidades do público alvo, respeitando 
