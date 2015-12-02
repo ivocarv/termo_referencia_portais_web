@@ -14,7 +14,7 @@ de Portais Corporativos de Internet e Intranet.
 
 Essa documentação está sendo preparada com base nos seguintes conteúdos:
 
-1. As necessidades do Órgão 
+1. As necessidades do Órgão e dos setores envolvidos. 
 1. Lei 8666
 2. IN 04/2015
 3. Normativos do Órgão (incluindo os de segurança)
