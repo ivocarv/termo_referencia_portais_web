@@ -18,6 +18,10 @@
     "plugins": [
         "mathjax"
     ],
+    "pdf": {
+        "headerTemplate": "_TITLE_ - _SECTION_",
+        "footerTemplate": "Página: _PAGENUM_"
+    },
    "styles": {
         "website": "styles/website.css",
         "ebook": "styles/ebook.css",

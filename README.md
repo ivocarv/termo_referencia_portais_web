@@ -1,11 +1,4 @@
-<img id="brasao" align=top src="brasao.png" alt="Brasão da República"></img>
-<link href="http://kevinburke.bitbucket.org/markdowncss/markdown.css" rel="stylesheet"></link>
-**SERVIÇO PÚBLICO FEDERAL**   
-**MJ – POLÍCIA FEDERAL**   
-**COORDENAÇÃO–GERAL DE TECNOLOGIA DA INFORMAÇÃO**   
-**DINF – SERVIÇO DE DESENVOLVIMENTO DE SISTEMAS**   
-**DOCUMENTO DE OFICIALIZAÇÃO DA DEMANDA**   
-  
+{% include "./cabecalho.md" %}
 # Planejamento da Contratação de Serviço de Tecnologia da Informação
 
 O objetivo deste material é documentar o planejamento da contratação de 
@@ -14,7 +7,7 @@ a operação de Portais Corporativos de Internet e Intranet.
 
 Essa documentação foi preparada com base nos seguintes conteúdos:
 
-1. DECRETO Nº 8.638 DE 15, DE JANEIRO DE 2016 
+1. DECRETO Nº 8.638 DE 15, DE JANEIRO DE 2016[^1] 
 1. Lei nº 8.666, de 21 de junho DE 1993  
 2. IN 04/2014 (modificada pela IN 05/2015)
 3. Normativos do Órgão (incluindo os de segurança)
@@ -27,4 +20,6 @@ Essa documentação foi preparada com base nos seguintes conteúdos:
 8. Métodos Ágeis de desenvolvimento de sistemas
 1. As necessidades do Órgão e dos setores envolvidos. 
 3. Normativos do Órgão (incluindo os de segurança)
+
+[^1] Decreto sobre a estratégia geral de TI
 
