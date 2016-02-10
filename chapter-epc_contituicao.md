@@ -1,3 +1,5 @@
+{% include "./cabecalho.md" %}
+
 #CONSTITUIÇÂO DA EQUIPE DE PLANEJAMENTO DA CONTRATAÇÂO
 
 Considerando a motivação e justificativa apresentados pelo demandante decido 
