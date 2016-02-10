@@ -2,13 +2,13 @@
     "variables": {
         "contratante": [
             {
-                "ministerio": "MinistériodaJustiça"
+                "ministerio": "Ministério da Justiça"
             },
             {
-                "unidade_maior": "PolíciaFederal"
+                "unidade_maior": "Polícia Federal"
             },
             {
-                "unidade_menor": "CoordenaçãoGeraldeTI"
+                "unidade_menor": "Coordenação Geral de TI"
             }
         ]
     },
