@@ -18,7 +18,7 @@
     "plugins": [
         "mathjax"
     ],
-   "styles": {
+    "styles": {
         "website": "styles/website.css",
         "ebook": "styles/ebook.css",
         "pdf": "styles/pdf.css",
