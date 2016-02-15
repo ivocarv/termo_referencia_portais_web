@@ -2,8 +2,10 @@
 Sistema computacional acessível através de um navegador de Internet.
 
 # Portal de Internet
-Portal que pode ser acessado de qualquer máquina conectada à Internet. 
+Portal que pode ser acessível a partir de qualquer computador regularmente conectado à Internet. 
 
 # Portal de Intranet
-Portal que pode ser acessado apenas de máquinas que esteja ligada a uma rede de uso restrito, como a rede de uma empresa ou de um órgão público. 
+Portal que pode ser acessado apenas de computadores integrantes de uma rede de uso restrito, como a rede de uma empresa ou de um órgão público. 
 
+# Serviço nacional 
+Serviço prestado no País, nos termos, limites e condições estabelecidos nos atos do Poder Executivo que estipulem a margem de preferência por serviço ou grupo de serviços.

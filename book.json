@@ -1,28 +1,123 @@
 {
-    "variables": {
-        "contratante": [
-            {
-                "ministerio": "Ministério da Justiça"
-            },
-            {
-                "unidade_maior": "Polícia Federal"
-            },
-            {
-                "unidade_menor": "Coordenação-Geral de TI"
-            }
-        ]
-    },
     "language": "pt-br",
     "title": "Planejamento de Contratação de Portais Web",
-    "description": "Este documento contém todo o planejamento necessário para a contratação de Serviços de Desenvolvimento, Evolução e Sustentação de Portais Web.",
+    "description": "Este documento registra o planejamento da contratação de Serviços de Desenvolvimento, Evolução/Manutenção e Sustentação de Portais Web.",
     "plugins": [
-        "mathjax"
+        "mathjax",
+	"autocover"
     ],
+    "pluginsConfig": {
+	        "autocover": {
+    			"title": "Planejamento de Contratação de Portais Web",
+    			"author": "Luiz Geraldo Silva Braz, et al.",
+    			"font": {
+       		 		"size": null,
+       		 		"family": "Impact",
+       		 		"color": "#FFF"
+    			},
+    			"size": {
+       		 		"w": 1800,
+       		 		"h": 2360
+    			},
+    			"background": {
+       		 		"color": "#09F"
+    			}
+       		},
+        	"mathjax":{
+        	}
+    },
     "styles": {
         "website": "styles/website.css",
         "ebook": "styles/ebook.css",
         "pdf": "styles/pdf.css",
-        "mobi": "styles/mobi.css",
+        "mobi": "styles/mobiccntegrante_demandante.c.css",
         "epub": "styles/epub.css"
+    },
+    "variables": {
+	"contratante": {
+            "ministerio": "MINISTÉRIO DA JUSTIÇA",
+            "orgao": "POLÍCIA FEDERAL",
+            "unidade_maior": "COORDENAÇÃO–GERAL DE TECNOLOGIA DA INFORMAÇÃO", 
+            "unidade_menor": "DINF – SERVIÇO DE DESENVOLVIMENTO DE SISTEMAS"
+        },
+	"epc": {
+	    "data_constituicao": "15 de Janeiro de 2016",
+            "integrante_demandante": {
+                "nome": "Claudio",
+                "cargo": "Agende de Polícia Federal",
+                "funcao": "",
+                "lotacao": "DCS/DPF",
+                "telefone": "(61) 2024-xxxx",
+                "email": "ccc@dpf.gov.br",
+                "data_indicacao": "12 de Janeiro de 2016",
+                "siape": "xxxx"
+            },
+            "integrante_tecnico": {
+                "nome": "luiz",
+                "cargo": "Perito Criminal Federal",
+                "funcao": "",
+                "lotacao": "SDS/DINF/CGTI/DPF",
+                "telefone": "(61) 2024-xxxx",
+                "email": "ccc@dpf.gov.br",
+                "data_indicacao": "12 de Janeiro de 2016",
+                "siape": "xxxx"
+            },
+            "integrante_administrativo": {
+                "nome": "Arton",
+                "cargo": "Analista de Tecnologia da Informação",
+                "funcao": "",
+                "lotacao": "SAD/CGTI/DPF",
+                "telefone": "(61) 2024-xxxx",
+                "email": "ccc@dpf.gov.br",
+                "data_indicacao": "12 de Janeiro de 2016",
+                "siape": "xxxx"
+            }
+	},
+	"area_administrativa": {
+            "responsavel": {
+                "nome": "Fabio",
+                "cargo": "Agente Admnistrativo",
+                "funcao": "Chefe do Serviço Admnistrativo",
+                "lotacao": "SAD/CGTI/DPF",
+                "telefone": "(61) 2024-xxxx",
+                "email": "f@dpf.gov.br",
+                "siape": "f"
+	    }
+	},
+	"area_tecnica": {
+            "responsavel": {
+                "nome": "Fortes",
+                "cargo": "Perito Criminal Federal",
+                "funcao": "Coordenador Geral de Tecnologia da Informação",
+                "lotacao": "CGTI/DPF",
+                "telefone": "(61) 2024-xxxx",
+                "email": "f@dpf.gov.br",
+                "siape": "f"
+	    }
+	},
+	"area_demandante": {
+            "responsavel": {
+                "nome": "Leonardo",
+                "cargo": "Agente de Polícia Federal",
+                "funcao": "Chefe da Divisão de Comunicação Social",
+                "lotacao": "DCS/DPF",
+                "telefone": "(61) 2024-xxxx",
+                "email": "lll@dpf.gov.br",
+                "siape": "sss"
+	    }
+	},
+	"demanda": {
+	    "nome": "Desenvolvimento e sustentação de portais web.",
+	    "tipo": "Serviço de natureza continuada sem alocação de mão de obra fixa.",
+	    "setor_demandante": "Divisão de Comunicação Social",
+            "data": {
+		"completa": "12 de Janeiro de 2016",
+		"dia": "12",
+		"mes": "Janeiro",
+		"mes_num": "01",
+		"ano": "2016"
+	    }
+        }
     }
 }
+

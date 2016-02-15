@@ -1,25 +1,25 @@
 {% include "./cabecalho.md" %}
-# Planejamento da Contratação de Serviço de Tecnologia da Informação
+
+# INTRODUÇÃO   
 
 O objetivo deste material é documentar o planejamento da contratação de 
 serviços especializados de desenvolvimento, manutenção e suporte 
 a operação de Portais Corporativos de Internet e Intranet.
 
-Essa documentação foi preparada com base nos seguintes conteúdos:
+Essa documentação foi preparada tendo como referência:
 
-1. DECRETO Nº 8.638 DE 15, DE JANEIRO DE 2016[^1] 
-1. Lei nº 8.666, de 21 de junho DE 1993  
-2. IN 04/2014 (modificada pela IN 05/2015)
-3. Normativos do Órgão (incluindo os de segurança)
-4. Normativos do TCU e CGU/AJ
-3. Compras Sustentáveis e uso do poder de compra estatal 
-6. Micro e Pequenas empresas
-5. Desenvolvimento Econômico-Social 
-6. Incentivo à indústria nacional
-7. Software Livre, Padrões Abertos 
-8. Métodos Ágeis de desenvolvimento de sistemas
-1. As necessidades do Órgão e dos setores envolvidos. 
-3. Normativos do Órgão (incluindo os de segurança)
+2. As necessidades do setor demandante expressas no Documento de Oficialização de Demanda; 
+3. O Decreto nº 8.638/2016 que institui a Política de Governança Digital;
+4. A Lei nº 8.666/1993 que institui normas para licitações e contratos administrativos;
+5. A IN nº 04/2014-SLTI/MP que dispõe sobre o processo de contratação de Soluções de TI;
+7. A Lei nº 10.176i/2001 que dispõe sobre a capacitação e competitividade do setor de tecnologia da informação;
+6. LC nº 123/2006 - Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte;
+6. Decreto nº 7.174/2010 - Regulamenta a contratação de bens e serviços de informática e automação;
+6. Decreto nº 7.546/2011 - Regulamenta a aplicação de margem de preferência e de medidas de compensação para produtos manufaturados e serviços nacionais;
+8. Decreto nº 7.746/2012 - Regulamenta os critérios, práticas e diretrizes para a promoção do desenvolvimento nacional sustentável nas contratações;
+6. Decreto nº 8.538/2015 - Regulamenta o tratamento favorecido, diferenciado e simplificado às Micro e Pequenas Empresas;  
+7. Documentos publicados pelo Tribunal de Contas da União; 
+8. Documentos publicados pela Controladoria Geral da União;
 
-[^1] Decreto sobre a estratégia geral de TI
 
+	
