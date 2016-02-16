@@ -1,3 +1,9 @@
 /* CSS for pdf */
 
+@page { margin: 1.27cm }
+p { margin-bottom: 0.21cm; direction: ltr; line-height: 120%; text-align: left; widows: 2; orphans: 2 }
+h3 { margin-top: 0cm; margin-bottom: 0cm; direction: ltr; color: #000000; line-height: 0.38cm; text-align: left; widows: 2; orphans: 2 }
+h3.western { font-family: "Arial", serif; font-size: 12pt }
+h3.cjk { font-family: "SimSun"; font-size: 12pt }
+h3.ctl { font-family: "Arial"; font-size: 12pt; font-weight: normal }
 
