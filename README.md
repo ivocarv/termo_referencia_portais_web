@@ -18,6 +18,7 @@ Essa documentação foi preparada tendo como referência:
 6. Decreto nº 7.546/2011 - Regulamenta a aplicação de margem de preferência e de medidas de compensação para produtos manufaturados e serviços nacionais;
 8. Decreto nº 7.746/2012 - Regulamenta os critérios, práticas e diretrizes para a promoção do desenvolvimento nacional sustentável nas contratações;
 6. Decreto nº 8.538/2015 - Regulamenta o tratamento favorecido, diferenciado e simplificado às Micro e Pequenas Empresas;  
+7. Portaria 779/2009-DG/DPF - Institui a Política de Segurança da Informação da Polícia Federal;
 7. Documentos publicados pelo Tribunal de Contas da União; 
 8. Documentos publicados pela Controladoria Geral da União;
 
