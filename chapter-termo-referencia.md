@@ -1,8 +1,5 @@
 {% include "./cabecalho.md" %}
-\
-
-TERMO DE REFERÊNCIA {.western align="center" style="margin-bottom: 0.42cm"}
-===================
+# TERMO DE REFERÊNCIA 
 
 1.  **FUNDAMENTOS LEGAIS**
 
@@ -62,9 +59,6 @@ TERMO DE REFERÊNCIA {.western align="center" style="margin-bottom: 0.42cm"}
         P05 – Renovação dos atuais contratos de prestação da CGTI – do
         Plano Diretor de Tecnologia da Informação da Polícia Federal,
         PDTI 2013-2014.
-
-\
-\
 
 4.  **FUNDAMENTAÇÃO DA CONTRATAÇÃO**
 
