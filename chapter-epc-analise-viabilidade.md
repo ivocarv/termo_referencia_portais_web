@@ -5,28 +5,30 @@
 
 Este documento documenta os requisitos da solução de TI a ser ofertada considerando não apenas as necessidades do demantante bem como as necessidades da área de TI da área admiinistrativa.
 
-## Requisitos da Área Demandante
+## Requisitos da Solução Pretendida
 
-Além das necessidades apontadas pelos demandantes, no Documento de Oficialização de Demanda, durante a análise de viabilidade foram identificadaas as seguintes necessidades:
+### Requisitos da Área Demandante
 
-* Controle da qualidade dos produtos;
-* Desenvolvimento agil e efetivo de novas funcionalidades;
-* Apoio no levantamento de requisitos de portais.
-* Desenvolver e implantar projetos de portais. 
-* Criação de projetos gráficos para produtos web, bem como o estabelecimento de especificações para esses fins; 
-* Atuar no suporte à manutenção e à atualização de conteúdos dos sites do DPF. 
-* Realização de testes em portais, visando à homologação do produto. 
-* Produção e organização dos documentos relativos aos projetos de portais. 
-* Definição da navegabilidade, usabilidade e acessibilidade de acordo com os padrões de governo. (e-Mag).
-* Customizar funcionalidades de ambientes de portais. 
-* Desenvolver e/ou adaptar produtos (_add-ons_). 
-* Definir e implementar temas para portais.
-* Desenvolver _portlets_
-* Realizar manutenções corretivas/evolutivas nos portais. 
-* Administração de usuários, grupos, workflow e papéis. 
-* Treinamento dos moderadores, publicadores de conteúdo.
+Além das necessidades apontadas pelos demandantes, no Documento de Oficialização de Demanda, durante a análise de viabilidade foram identificadas as seguintes necessidades:
 
-## Requisitos da Área Técnica
+ Controle da qualidade dos produtos;
+ Desenvolvimento ágil e efetivo de novas funcionalidades;
+ Apoio no levantamento de requisitos de portais.
+ Desenvolver e implantar projetos de portais. 
+ Criação de projetos gráficos para produtos web, bem como o estabelecimento de especificações para esses fins; 
+ Atuar no suporte à manutenção e à atualização de conteúdos dos sites do DPF. 
+ Realização de testes em portais, visando à homologação do produto. 
+ Produção e organização dos documentos relativos aos projetos de portais. 
+ Definição da navegabilidade, usabilidade e acessibilidade de acordo com os padrões de governo. (e-Mag).
+ Customizar funcionalidades de ambientes de portais. 
+ Desenvolver e/ou adaptar produtos (_add-ons_). 
+ Definir e implementar temas para portais.
+ Desenvolver _portlets_
+ Realizar manutenções corretivas/evolutivas nos portais. 
+ Administração de usuários, grupos, workflow e papéis. 
+ Treinamento dos moderadores, publicadores de conteúdo.
+
+### Requisitos da Área Técnica
 
 Manutenibilidade
 Fornecer Suporte e Manutenção em caráter preventivo, corretivo, evolutivo e adaptativo a todos os portais corporativos da PF. 
@@ -43,49 +45,85 @@ Treinar moderadores e publicadores de conteúdo.
 Requisitos de Segurança 
 Aderir aos princípios e procedimentos elencados na Política de Segurança da Informação da PF, conforme Portaria n° 779/2009-DG/DPF. 
 
-## Requisitos da Área Administrativa
-
+### Requisitos da Área Administrativa
 
 ~~a ser definido pela área admnistrativa~~
 
-| **3 – LEVANTAMENTO DAS SOLUÇÕES DISPONÍVEIS** |
-| --- |
-| **Solução 1** | **Nome da Solução** | **Entidade** |
-|  | Serviço de desenvolvimento e manutenção de portais corporativos (websites) | CGTI |
-|  | **Descrição:** | Prestação de serviços técnicos especializados em desenvolvimento, dimensionamento, configuração, implementação, padronização, customização, implantação e manutenção de código de Portais Corporativos. |
+## Levantamento das Soluções Disponíveis
 
-| **4 – IDENTIFICAÇÃO DAS SOLUÇÕES E ALTERANTIVA DISPONÍVEIS** |
-| --- |
-| **Requisito** | **Id da Solução** | **Sim** | **Não** | **Não se Aplica** |
-| A Solução encontra-se implantada em outro órgão ou entidade da Administração Pública Federal? | 1 |  |  | X |
-| A Solução está disponível no Portal do Software Público Brasileiro? | 1 |  |  | X |
-| A Solução é um software livre ou software público? | 1 |  |  | X |
-| A Solução é aderente às políticas, premissas e especificações técnicas definidas pelos Padrões e-PING, e-MAG? | 1 |  |  | X |
-| A Solução é aderente às regulamentações da ICP-Brasil? | 1 |  |  | X |
-| A Solução é aderente às orientações, premissas e especificações técnicas e funcionais do – e-ARQ Brasil? | 1 |  |  | X |
+### Solução 1: Contratação de Empresa Especializada 
+Trata-se da contratação de serviços técnicos de empresas especializadas em desenvolvimento e sustentação de Portais Corporativos.
 
-| **5 – JUSTIFICATIVA DA SOLUÇÃO ESCOLHIDA** |
-| --- |
-| **5.1 – SOLUÇÃO** |
-| **Nome:** | Serviço de desenvolvimento e manutenção de portais corporativos (websites) |
-| **Descrição:** |  |
-| **Bens e Serviços:** | **Id** | **Bem / Serviço** |
-|  | **1** | Prestação de serviços técnicos especializados em desenvolvimento, dimensionamento, configuração, implementação, padronização, customização, implantação e manutenção de código de Portais Corporativos. |
-|  |
-| **5.2 – ALINHAMENTO COM AS NECESSIDADES DE NEGÓCIO** |
-| **Id** | **Função** | **Necessidade de Negócio** |
-| **1** | Prestação de serviços técnicos especializados em desenvolvimento, dimensionamento, configuração, implementação, padronização, customização, implantação e manutenção de código de Portais Corporativos. | Garantir a continuidade na prestação de serviços e fornecimento de informações ao público externo e interno da PF - Polícia Federal, através do desenvolvimento da manutenção dos seus websites. |
-|  |
-| **5.3 – BENEFICIOS ESPERADOS** |
-| **Id** | **Benefício** |
-| 1 | Garantia de continuidade do serviço público; |
-| 2 | Continuidade do desempenho dos processos de negócios que são apoiados pela solução tecnológica; |
-| 3 | Maior qualidade e agilidade no repasse de informações aos servidores e cidadãos brasileiros sobre a organização. |
+### Solução 2: Recrutamento e Capacitação de Servidores 
+Trata-se de recrutar e capacitar servidores da PF para que eles mesmos desenvolvam e sustetem os Portais Corporativos.
 
-| **6 – AVALIAÇÃO DAS NECESSIDADES DE ADEQUAÇÃO PARA EXECUÇÃO CONTRATUAL** |
-| --- |
-| **Id** | **Tipo de Necessidade** | **Descrição** |
-| **Não se aplica** |
+## Avaliação das Soluções Disponíveis
+
+<table>
+<col width="467">
+<col width="54">
+<col width="39">
+<col width="96">
+<th>
+<td><b>Requisito</b></td>
+<td><b>Sim</b></td>
+<td><b>Não</b></td>
+<td><b>Não se Aplica</b></td>
+</th>
+<tr>
+<td><b>A Solução encontra-se implantada em outro órgão ou entidade da Administração Pública Federal?</b></td>
+<td><b></b></td>
+<td><b></b></td>
+<td><b></b></td>
+</tr>
+<tr>
+<td><b>A Solução está disponível no Portal do Software Público Brasileiro?</b></td>
+<td><b></b></td>
+<td><b></b></td>
+<td><b></b></td>
+</tr>
+<tr>
+<td><b>A Solução é um software livre ou software público?</b></td>
+<td><b></b></td>
+<td><b></b></td>
+<td><b></b></td>
+</tr>
+<tr>
+<td><b>A Solução é aderente às políticas, premissas e especificações técnicas definidas pelos Padrões e-PING, e-MAG?</b></td>
+<td><b></b></td>
+<td><b></b></td>
+<td><b></b></td>
+</tr>
+<tr>
+<td><b>A Solução é aderente às regulamentações da ICP-Brasil?</b></td>
+<td><b></b></td>
+<td><b></b></td>
+<td><b></b></td>
+</tr>
+<tr>
+<td><b>A Solução é aderente às orientações, premissas e especificações técnicas e funcionais do – e-ARQ Brasil?</b></td>
+<td><b></b></td>
+<td><b></b></td>
+<td><b></b></td>
+</tr>
+</table>
+
+## Justificativa da Solução Escolhida 
+
+Optou-se pela solução 1 pois o efetivo do órgão é limitado e dificilmente haveria pessoal disponível para atender a demanda.
+
+## Alinhamento com as necessidades de negócio
+
+Entendemos que a solução está plenamente alinhada com as necessidades do negócio.
+
+## Benefícios Esperados
+
+* Garantia de continuidade dos serviços prestados à população usuária dos portais de Internet;  
+* Garantia de continuidade dos serviços prestados aos usuários dos portais de Intranet; 
+* constante dos Portais;
+
+# Avaliação das Necessidades de Adequação para Execução Contratual
+~~Falta entender o que se quer aqui~~
 
 {% include "./assinatura-epc.md" %}
 
