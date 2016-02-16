@@ -1573,19 +1573,8 @@ VP = Valor da parcela em atraso.
 
 2.  Serão partes integrantes do Contrato, independentemente de
     transcrição:
-
     1.  Termo de Referência e seus Anexos;
-
     2.  Proposta apresentada pela CONTRATADA;
-
-\
-\
-
-\
-\
-
-\
-\
 
 30. **DOS CASOS OMISSOS**
 
@@ -1597,63 +1586,9 @@ VP = Valor da parcela em atraso.
         8.666/93, combinado com o inciso XII do art. 55 do mesmo diploma
         legal.
 
-\
-\
-
 Brasília, 05 de abril de 2013.
 
-  -------------------------------------------------- -------------------------------------------------- --------------------------------------------------
-  \                                                  \                                                  \
-  \                                                  \                                                  \
-                                                                                                        
-  \                                                  \                                                  \
-  \                                                  \                                                  \
-                                                                                                        
-  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-                                                                                                        
-  **Frederico Borelli de Souza**                     **Altamir Araujo Guimarães Junior**                **Marsele de Oliveira Garcia**
-                                                                                                        
-  Integrante Requisitante                            Integrante Técnico                                 Integrante Administrativo
-                                                                                                        
-  Chefe do Serviço de Desenvolvimento de Sistemas    Serviço de Desenvolvimento de Sistemas             Chefe do Setor de Apoio de Administrativo
-                                                                                                        
-  SDS/DINF/CGTI/DPF                                  SDS/DINF/CGTI/DPF                                  SAD/CGTI/DPF
-  -------------------------------------------------- -------------------------------------------------- --------------------------------------------------
+APROVO o presente Termo de Referência conforme o disposto no art. 9°do Dec. 5450/2005.
 
-\
+Coordenador-Geral de Tecnologia da Informação - substituto
 
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-APROVO o presente Termo de
-
-Referência conforme o disposto no
-
-art. 9°do Dec. 5450/2005.
-
-\
-
-\
-
-\
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-**Luís Otávio Gouveia**
-
-Perito Criminal Federal
-
-Coordenador-Geral de
-
-Tecnologia da Informação - substituto
-
-\

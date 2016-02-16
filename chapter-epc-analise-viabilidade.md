@@ -1,51 +1,43 @@
 {% include "./cabecalho.md" %}
 #ANÁLISE DE VIABILIDADE DA CONTRATAÇÃO
 
-<table width="697" cellpadding="7" cellspacing="0">
+<table width="698" cellpadding="8" cellspacing="0">
 <col width="681">
-<tr><td width="681" bgcolor="#b3b3b3" style="border: 1px solid #000001; padding: 0cm 0.19cm">
-<ol>
-<li>
+<tr>
+<td bgcolor="#b3b3b3" style="border: 1px solid #000001; padding: 0cm 0.19cm">
 <p><font face="Arial Narrow, serif" size="2" style="font-size: 10pt"><b>NOME DA SOLUÇÃO DE TECNOLOGIA DA INFORMAÇÃO</b></font></p>
-</ol>
 </td>
 </tr>
 
-<tr><td width="681" height="15" style="border-top: none; border-bottom: 1px solid #000001; border-left: 1px solid #000001; border-right: 1px solid #000001; padding: 0cm 0.19cm">
-			<p align="left" style="margin-left: 1.27cm; text-indent: -0.02cm; margin-top: 0.21cm; page-break-after: avoid">
-			<font face="Arial Narrow, serif"><font size="2" style="font-size: 10pt">Serviços
-			técnicos especializados em testes, qualidade e auditoria dos
-			sistemas da informaçãodesenvolvidos e mantidos pela
-			Coordenação-Geral de Tecnologia da Informação da Polícia
-			Federal.</font></font></p>
-			<p style="margin-top: 0.07cm"><br>
-			</p>
-		</td>
-	</tr>
+<tr>
+<td height="15" style="border-top: none; border-bottom: 1px solid #000001; border-left: 1px solid #000001; border-right: 1px solid #000001; padding: 0cm 0.19cm">
+<p align="left" style="page-break-after: avoid">
+<font face="Arial Narrow, serif" size="2" style="font-size: 10pt">Serviços técnicos especializados em testes, qualidade e auditoria dos sistemas da informação desenvolvidos e mantidos pela Coordenação-Geral de Tecnologia da Informação da Polícia Federal.</font></p>
+</td>
+</tr>
 </table>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><br>
-</p>
 <table width="698" cellpadding="5" cellspacing="0">
-	<col width="32">
-	<col width="103">
-	<col width="18">
-	<col width="141">
-	<col width="28">
-	<col width="313">
-	<tr>
-		<td colspan="6" width="686" height="4" valign="top" bgcolor="#b3b3b3" style="border: 1px solid #000001; padding: 0cm 0.12cm">
-			<p><font face="Arial Narrow, serif"><font size="2" style="font-size: 10pt"><b>2
-			– REQUISITOS DE NEGÓCIO DA ÁREA REQUISITANTE</b></font></font></p>
-		</td>
-	</tr>
-	<tr>
-		<td colspan="6" width="686" height="5" valign="top" bgcolor="#ccccff" style="border-top: none; border-bottom: 1px solid #000001; border-left: 1px solid #000001; border-right: 1px solid #000001; padding: 0cm 0.12cm">
-			<p><font face="Arial Narrow, serif"><font size="2" style="font-size: 10pt"><b>2.1
-			– NECESSIDADES DE NEGÓCIO</b></font></font></p>
-		</td>
-	</tr>
-	<tr valign="top">
+<col width="32">
+<col width="103">
+<col width="18">
+<col width="141">
+<col width="28">
+<col width="313">
+
+<tr>
+<td colspan="6" width="686" height="4" valign="top" bgcolor="#b3b3b3" style="border: 1px solid #000001; padding: 0cm 0.12cm">
+<p><font face="Arial Narrow, serif" size="2" style="font-size: 10pt"><b>2 – REQUISITOS DE NEGÓCIO DA ÁREA REQUISITANTE</b></font></p>
+</td>
+</tr>
+
+<tr>
+<td colspan="6" width="686" height="4" valign="top" bgcolor="#ccccff" style="border: 1px solid #000001; padding: 0cm 0.12cm">
+<p><font face="Arial Narrow, serif"><font size="2" style="font-size: 10pt"><b>2.1 – NECESSIDADES DE NEGÓCIO</b></font></font></p>
+</td>
+</tr>
+
+<tr valign="top">
 		<td colspan="2" width="145" bgcolor="#e6e6ff" style="border-top: none; border-bottom: 1px solid #000001; border-left: 1px solid #000001; border-right: none; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.12cm; padding-right: 0cm">
 			<p><font face="Arial Narrow, serif"><font size="2" style="font-size: 10pt"><b>Necessidade
 			1:</b></font></font></p>
@@ -110,11 +102,7 @@
 		</td>
 		<td colspan="3" width="283" style="border-top: none; border-bottom: 1px solid #000001; border-left: 1px solid #000001; border-right: none; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.12cm; padding-right: 0cm">
 			<p align="justify" style="margin-left: 0.64cm; margin-top: 0.21cm; margin-bottom: 0.42cm; page-break-after: avoid">
-			<font face="Arial Narrow, serif"><font size="2" style="font-size: 10pt">Desenvolver
-			novos sistemas informatizados, de forma rápida e efetiva, para o
-			atendimento das demandas de negócios da PF.</font></font></p>
-			<p style="margin-top: 0.07cm"><br>
-			</p>
+			<font face="Arial Narrow, serif"><font size="2" style="font-size: 10pt">Desenvolver novos sistemas informatizados, de forma rápida e efetiva, para o atendimento das demandas de negócios da PF.</font></font></p>
 		</td>
 		<td width="28" style="border-top: none; border-bottom: 1px solid #000001; border-left: 1px solid #000001; border-right: none; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.12cm; padding-right: 0cm">
 			<p style="margin-top: 0.07cm"><font face="Arial Narrow, serif"><font size="2" style="font-size: 10pt">3</font></font></p>
@@ -341,8 +329,7 @@
 			<p style="margin-top: 0.07cm"><font face="Arial Narrow, serif"><font size="2" style="font-size: 10pt">18</font></font></p>
 		</td>
 		<td colspan="3" width="283" style="border-top: none; border-bottom: 1px solid #000001; border-left: 1px solid #000001; border-right: none; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.12cm; padding-right: 0cm">
-			<p style="margin-top: 0.07cm"><font face="Arial Narrow, serif"><font size="2" style="font-size: 10pt">Treinamento
-			dos moderadores, publicadores de conteúdo.</font></font></p>
+			<p style="margin-top: 0.07cm"><font face="Arial Narrow, serif"><font size="2" style="font-size: 10pt">Treinamento dos moderadores, publicadores de conteúdo.</font></font></p>
 		</td>
 		<td width="28" style="border-top: none; border-bottom: 1px solid #000001; border-left: 1px solid #000001; border-right: none; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.12cm; padding-right: 0cm">
 			<p style="margin-top: 0.07cm"><font face="Arial Narrow, serif"><font size="2" style="font-size: 10pt">18</font></font></p>
@@ -351,12 +338,8 @@
 			<p><font face="Arial Narrow, serif"><font size="2" style="font-size: 10pt">CONTRATADA</font></font></p>
 		</td>
 	</tr>
-	<tr>
-		<td colspan="6" width="686" valign="top" style="border-top: none; border-bottom: 1px solid #000001; border-left: 1px solid #000001; border-right: 1px solid #000001; padding: 0cm 0.12cm">
-			<p align="center"><br>
-			</p>
-		</td>
-	</tr>
+</table>
+<table>
 	<tr>
 		<td colspan="6" width="686" valign="top" bgcolor="#ccccff" style="border-top: none; border-bottom: 1px solid #000001; border-left: 1px solid #000001; border-right: 1px solid #000001; padding: 0cm 0.12cm">
 			<p><font face="Arial Narrow, serif"><font size="2" style="font-size: 10pt"><b>2.2
@@ -846,7 +829,6 @@
 	</tr>
 </table>
 <p align="center" style="margin-left: -0.02cm; margin-bottom: 0cm; line-height: 100%">
-
 
 {% include "./assinatura-epc.md" %}
 
