@@ -1,10 +1,11 @@
 {% include "./cabecalho.md" %}
 #ANÁLISE DE VIABILIDADE 
-####(Análise de viabilidade das soluções possíveis)
 
 ## Introdução 
 
-Este documento registra os principais requisitos da solução de TI a ser ofertada ao requisitante, considerando-se não apenas as necessidades do próprio requisitante mas também aquelas oriundas da área de TI (que, ao final, desenvolve e sustenta da solução dada) bem como da área administrativa que participa de todo o processo, desde a escolha da solução a ser ofertada até o eventual pagamento de fornecedores.
+Este documento registra os principais requisitos da solução de TI a ser ofertada ao requisitante bem como levanta as possíveis soluções para a demanda e analisa a viabilidade de adoção de cada uma.
+  
+A análise considera não apenas as necessidades do próprio requisitante, já registradas no documento de oficialização de demanda, mas também aquelas oriundas das áreas de Técnica e Administrativa que, ao final entregam a solução para a demanda.
 
 ## Requisitos da Solução Pretendida 
 
