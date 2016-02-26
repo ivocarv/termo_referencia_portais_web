@@ -113,15 +113,31 @@
 	    "nome": "Desenvolvimento e sustentação de portais web.",
 	    "tipo": "Serviço de natureza continuada sem alocação de mão de obra fixa.",
 	    "setor_requisitante": "Divisão de Comunicação Social",
-            "data": {
+            "data_solicitacao": {
 		"completa": "12 de Janeiro de 2016",
 		"dia": "12",
 		"mes": "Janeiro",
 		"mes_num": "01",
 		"ano": "2016"
-	    },
-	    "data_final_planejamento": {
+	    }
+	},
+	"planejamento_da_contratacao": {
+	    "data_finalizacao": {
                 "completa": "26 de Janeiro de 2016",
+                "dia": "26",
+                "mes": "Janeiro",
+                "mes_num": "01",
+                "ano": "2016"
+	    },	
+	    "data_encaminhamento": {
+                "completa": "data indefinida",
+                "dia": "26",
+                "mes": "Janeiro",
+                "mes_num": "01",
+                "ano": "2016"
+	    },	
+	    "data_aprovacao": {
+                "completa": "dataindefinida",
                 "dia": "26",
                 "mes": "Janeiro",
                 "mes_num": "01",
