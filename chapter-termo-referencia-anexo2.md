@@ -1,6 +1,6 @@
 {% include "./cabecalho.md" %}
 
-#ANEXO II – DECLARAÇÃO DE ELABORAÇÃO INDEPENDENTE DE PROPOSTA
+#DECLARAÇÃO DE PROPOSTA INDEPENDENTE
 
 (Identificação completa do representante da licitante), como
 representante devidamente constituído de (Identificação completa da
