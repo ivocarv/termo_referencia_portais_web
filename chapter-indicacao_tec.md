@@ -12,13 +12,9 @@ Considerando a relevância e oportunidade da demanda intitulada "{{book.demanda.
 
 Encaminhe-se este expediente ao Setor Administrativo para indicação de Integrante Administrativo e retorne-se à esta Coordenação para constituição oficial da Equipe de Planejamento de Contratação.
 
-Brasília, {{book.epc.integrante_tecnico.data_indicacao}}
+Brasília, {{book.planejamento_da_contratacao.data_indicacao_integrante_tecnico.completa}}
+   
+   
+   
+{% include "./assinatura-cgti.md" %}
 
-<div align="center">
-<b>
-<br/>
-{{book.area_tecnica.responsavel.nome}}<br/>  
-{{book.area_tecnica.responsavel.funcao}}<br/> 
-{{book.area_tecnica.responsavel.lotacao}}<br/> 
-SIAPE: {{book.area_tecnica.responsavel.siape}}<br/>   
-</b>

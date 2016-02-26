@@ -12,7 +12,7 @@ Indico o servidor abaixo para compor equipe de planejamento de contratação de 
 
 Encaminhe-se área técnica competente, para providencias.
 
-Brasília, {{book.epc.integrante_administrativo.data_indicacao}}
+Brasília, {{book.planejamento_da_contratacao.data_indicacao_integrante_administrativo.completa}}
 
 <div align="center">
 <b>

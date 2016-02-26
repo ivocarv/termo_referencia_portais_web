@@ -52,7 +52,6 @@
                 "lotacao": "DCS/DPF",
                 "telefone": "(61) 2024-xxxx",
                 "email": "claudio.cacndpf.gov.br",
-                "data_indicacao": "12 de Janeiro de 2016",
                 "siape": "00000"
             },
             "integrante_tecnico": {
@@ -62,7 +61,6 @@
                 "lotacao": "SDS/DINF/CGTI/DPF",
                 "telefone": "(61) 2024-9455",
                 "email": "luiz.lgsb@dpf.gov.br",
-                "data_indicacao": "12 de Janeiro de 2016",
                 "siape": "00000"
             },
             "integrante_administrativo": {
@@ -72,7 +70,6 @@
                 "lotacao": "SAD/CGTI/DPF",
                 "telefone": "(61) 2024-xxxx",
                 "email": "adefinir@dpf.gov.br",
-                "data_indicacao": "12 de Janeiro de 2016",
                 "siape": "00000"
             }
 	},
@@ -122,26 +119,23 @@
 	    }
 	},
 	"planejamento_da_contratacao": {
+	    "data_indicacao_integrante_tecnico": {
+                "completa": "12 de Janeiro de 2016"
+	    },	
+	    "data_indicacao_integrante_administrativo": {
+                "completa": "data a definir"
+	    },	
+	    "data_nomeacao_epc": { 
+                "completa": "data a definir"
+	    },	
 	    "data_finalizacao": {
-                "completa": "26 de Janeiro de 2016",
-                "dia": "26",
-                "mes": "Janeiro",
-                "mes_num": "01",
-                "ano": "2016"
+                "completa": "data a definir"
 	    },	
 	    "data_encaminhamento": {
-                "completa": "data indefinida",
-                "dia": "26",
-                "mes": "Janeiro",
-                "mes_num": "01",
-                "ano": "2016"
+                "completa": "data a definir"
 	    },	
 	    "data_aprovacao": {
-                "completa": "dataindefinida",
-                "dia": "26",
-                "mes": "Janeiro",
-                "mes_num": "01",
-                "ano": "2016"
+                "completa": "data a definir"
 	    }	
         }
     }

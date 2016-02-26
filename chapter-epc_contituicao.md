@@ -26,15 +26,9 @@ Contratação composta pelos seguintes membros:
      
 Encaminhe-se os autos aos membros da Equipe de Planejamento da Contratação para início dos trabalhos.  
 
-Brasília, {{book.epc.data_constituicao}}
-
-<div align="center">
-<b>
-{{book.area_tecnica.responsavel.nome}}<br/>  
-{{book.area_tecnica.responsavel.funcao}}<br/> 
-{{book.area_tecnica.responsavel.lotacao}}<br/> 
-SIAPE: {{book.area_tecnica.responsavel.siape}}<br/>   
-</b>
-
-  
+Brasília, {{book.planejamento_da_contratacao.data_nomeacao_epc.completa}}
+   
+      
+      
+{% include "./assinatura-cgti.md" %}
 
