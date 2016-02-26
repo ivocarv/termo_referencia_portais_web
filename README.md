@@ -8,7 +8,7 @@ a operação de Portais Corporativos de Internet e Intranet.
 
 Essa documentação foi preparada tendo como referência:
 
-2. As necessidades do setor demandante expressas no Documento de Oficialização de Demanda; 
+2. As necessidades do setor requisitante expressas no Documento de Oficialização de Demanda; 
 3. O Decreto nº 8.638/2016 que institui a Política de Governança Digital;
 4. A Lei nº 8.666/1993 que institui normas para licitações e contratos administrativos;
 5. A IN nº 04/2014-SLTI/MP que dispõe sobre o processo de contratação de Soluções de TI;
