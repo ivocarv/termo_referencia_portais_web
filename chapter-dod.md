@@ -68,7 +68,7 @@ Indico o servidor abaixo identificado para representar o requisitante na Equipe 
 
 Encaminhe-se este expediente ao Coordenador Geral de TI para providências cabíveis.
 
-Brasília, {{book.demanda.data.completa}}
+Brasília, {{book.demanda.data_solicitacao.completa}}
 
 <div align="center">
 <b>
