@@ -4,20 +4,21 @@
 ##Identificação da Demanda
 **Nome:** {{book.demanda.nome}}   
 **Tipo:** {{book.demanda.tipo}}  
-**Setor Demandante:** {{book.demanda.setor_demandante}} 
+**Setor Requisitante:** {{book.demanda.setor_requisitante}} 
 
 ##Alinhamento Estratégico
 O atendimento desta demanda está alinhado com os seguintes itens do Planejamento Estratégico do Órgão:
 1. Ação estratégica 9.8.2: Melhoria da Infraestrutura e Serviços de TI e Telecomunicações.   
 1. Objetivo 1.3: Garantir a operação e o suporte aos serviços de TI.   
   
-##Necessidades do Demandante 
+##Necessidades do Requisitante 
 1. Contar com serviço especializado para, sob demanda e com agilidade,
 capacitar, orientar e dar suporte especializado aos servidores do órgão
 encarregados de produzir e consumir conteúdo digital multimédia nos Portais 
-Web e Redes Sociais usados pelo órgão;
-1. Contar com serviço especializado em encontrar na Internet, produzir, 
-organizar e/ou transformar conteúdo digital multimédia a ser usado; 
+Web usados pelo órgão;
+1. Contar com serviço especializado em encontrar, produzir, 
+organizar e/ou transformar conteúdo digital multimédia a ser usado 
+nos Portais Web do Orgão; 
 1. Contar com serviço especializado em desenvolver e sustentar
 o funcionamento de Portais Web capazes de prestar informação e 
 serviços digitais; 
@@ -44,7 +45,7 @@ Por usa vez, nos portais de Intranet, os usuários consomem serviços e informa�
 produzidas por todas as unidades corporativas do Órgão, fundamentais para orientar
 e coordenar o trabalho diário.
 
-Assim sendo, o demandante, enquanto idealizador da Intranet e responsável pela comunicação
+Assim sendo, o requisitante, enquanto idealizador da Intranet e responsável pela comunicação
 da Polícia Federal com a sociedade, entende que é fundamental manter em bom funcionamento 
 e evoluir constantemente os portais Intranet e Internet hoje existentes, bem como 
 disponibilizar novos portais e serviços capazes de atender demandas internas e externas 
@@ -56,14 +57,14 @@ espalhadas pelas diversas diretorias e superintendências do Órgão.
 
 ##Encaminhamento
 
-Indico o servidor abaixo identificado para representar o demandante na Equipe de Planejamento de Contratação de Solução de TI a ser futuramente constituída:
+Indico o servidor abaixo identificado para representar o requisitante na Equipe de Planejamento de Contratação de Solução de TI a ser futuramente constituída:
 
-###Identificação do Integrante Demandante Indicado
-**Nome:** {{book.epc.integrante_demandante.nome}}   
-**Cargo:** {{book.epc.integrante_demandante.cargo}}   
-**Lotação:** {{book.epc.integrante_demandante.lotacao}}   
-**E-mail:** {{book.epc.integrante_demandante.email}}  
-**SIAPE:** {{book.epc.integrante_demandante.siape}}  
+###Identificação do Integrante Requisitante Indicado
+**Nome:** {{book.epc.integrante_requisitante.nome}}   
+**Cargo:** {{book.epc.integrante_requisitante.cargo}}   
+**Lotação:** {{book.epc.integrante_requisitante.lotacao}}   
+**E-mail:** {{book.epc.integrante_requisitante.email}}  
+**SIAPE:** {{book.epc.integrante_requisitante.siape}}  
 
 Encaminhe-se este expediente ao Coordenador Geral de TI para providências cabíveis.
 
@@ -72,10 +73,10 @@ Brasília, {{book.demanda.data.completa}}
 <div align="center">
 <b>
 <br/>
-{{book.area_demandante.responsavel.nome}}<br/>  
-{{book.area_demandante.responsavel.funcao}}<br/> 
-{{book.area_demandante.responsavel.lotacao}}<br/> 
-SIAPE: {{book.area_demandante.responsavel.siape}}<br/>   
+{{book.area_requisitante.responsavel.nome}}<br/>  
+{{book.area_requisitante.responsavel.funcao}}<br/> 
+{{book.area_requisitante.responsavel.lotacao}}<br/> 
+SIAPE: {{book.area_requisitante.responsavel.siape}}<br/>   
 </b>
 </div>
 

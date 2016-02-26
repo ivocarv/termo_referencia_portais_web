@@ -27,10 +27,16 @@
         "website": "styles/website.css",
         "ebook": "styles/ebook.css",
         "pdf": "styles/pdf.css",
-        "mobi": "styles/mobiccntegrante_demandante.c.css",
+        "mobi": "styles/mobi.css",
         "epub": "styles/epub.css"
     },
     "variables": {
+	"cabecalho": {
+            "primeira": "MINISTÉRIO DA JUSTIÇA",
+            "segunda": "POLÍCIA FEDERAL",
+            "terceira": "COORDENAÇÃO–GERAL DE TECNOLOGIA DA INFORMAÇÃO", 
+            "quarta": "DINF – SERVIÇO DE DESENVOLVIMENTO DE SISTEMAS"
+        },
 	"contratante": {
             "ministerio": "MINISTÉRIO DA JUSTIÇA",
             "orgao": "POLÍCIA FEDERAL",
@@ -39,81 +45,88 @@
         },
 	"epc": {
 	    "data_constituicao": "15 de Janeiro de 2016",
-            "integrante_demandante": {
-                "nome": "Claudio",
+            "integrante_requisitante": {
+                "nome": "Claudio Augusto Cunha Nascimento",
                 "cargo": "Agende de Polícia Federal",
                 "funcao": "",
                 "lotacao": "DCS/DPF",
                 "telefone": "(61) 2024-xxxx",
-                "email": "ccc@dpf.gov.br",
+                "email": "claudio.cacndpf.gov.br",
                 "data_indicacao": "12 de Janeiro de 2016",
-                "siape": "xxxx"
+                "siape": "00000"
             },
             "integrante_tecnico": {
-                "nome": "luiz",
+                "nome": "Luiz Geraldo Silva Braz",
                 "cargo": "Perito Criminal Federal",
                 "funcao": "",
                 "lotacao": "SDS/DINF/CGTI/DPF",
-                "telefone": "(61) 2024-xxxx",
-                "email": "ccc@dpf.gov.br",
+                "telefone": "(61) 2024-9455",
+                "email": "luiz.lgsb@dpf.gov.br",
                 "data_indicacao": "12 de Janeiro de 2016",
-                "siape": "xxxx"
+                "siape": "00000"
             },
             "integrante_administrativo": {
-                "nome": "Arton",
+                "nome": "a denifir",
                 "cargo": "Analista de Tecnologia da Informação",
                 "funcao": "",
                 "lotacao": "SAD/CGTI/DPF",
                 "telefone": "(61) 2024-xxxx",
-                "email": "ccc@dpf.gov.br",
+                "email": "adefinir@dpf.gov.br",
                 "data_indicacao": "12 de Janeiro de 2016",
-                "siape": "xxxx"
+                "siape": "00000"
             }
 	},
 	"area_administrativa": {
             "responsavel": {
-                "nome": "Fabio",
+                "nome": "Fabio Lacerda",
                 "cargo": "Agente Admnistrativo",
                 "funcao": "Chefe do Serviço Admnistrativo",
                 "lotacao": "SAD/CGTI/DPF",
                 "telefone": "(61) 2024-xxxx",
-                "email": "f@dpf.gov.br",
-                "siape": "f"
+                "email": "fabio.fjln@dpf.gov.br",
+                "siape": "00000"
 	    }
 	},
 	"area_tecnica": {
             "responsavel": {
-                "nome": "Fortes",
+                "nome": "Marcelo Fortes de Azambuja",
                 "cargo": "Perito Criminal Federal",
                 "funcao": "Coordenador Geral de Tecnologia da Informação",
                 "lotacao": "CGTI/DPF",
                 "telefone": "(61) 2024-xxxx",
-                "email": "f@dpf.gov.br",
-                "siape": "f"
+                "email": "cgti@dpf.gov.br",
+                "siape": "00000"
 	    }
 	},
-	"area_demandante": {
+	"area_requisitante": {
             "responsavel": {
-                "nome": "Leonardo",
+                "nome": "Leonardo Cavalcante Soares Lima",
                 "cargo": "Agente de Polícia Federal",
                 "funcao": "Chefe da Divisão de Comunicação Social",
                 "lotacao": "DCS/DPF",
                 "telefone": "(61) 2024-xxxx",
-                "email": "lll@dpf.gov.br",
-                "siape": "sss"
+                "email": "lima.lcsl@dpf.gov.br",
+                "siape": "00000"
 	    }
 	},
 	"demanda": {
 	    "nome": "Desenvolvimento e sustentação de portais web.",
 	    "tipo": "Serviço de natureza continuada sem alocação de mão de obra fixa.",
-	    "setor_demandante": "Divisão de Comunicação Social",
+	    "setor_requisitante": "Divisão de Comunicação Social",
             "data": {
 		"completa": "12 de Janeiro de 2016",
 		"dia": "12",
 		"mes": "Janeiro",
 		"mes_num": "01",
 		"ano": "2016"
-	    }
+	    },
+	    "data_final_planejamento": {
+                "completa": "26 de Janeiro de 2016",
+                "dia": "26",
+                "mes": "Janeiro",
+                "mes_num": "01",
+                "ano": "2016"
+	    }	
         }
     }
 }

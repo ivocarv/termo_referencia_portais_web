@@ -28,4 +28,11 @@
 ## Realizar testes após qualquer alteração nos portais SDS
 ### Ação de Contingência: Retorno a estado consistente
 
+  
+  
+    
+Brasília, {{book.demanda.data_final_planejamento.completa}}  
+  
+  
+  
 {% include "./assinatura-epc.md" %}
