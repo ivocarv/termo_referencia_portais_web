@@ -1,4 +1,3 @@
-
 # SUMÁRIO   
 
 * [Introdução](README.md)
@@ -19,6 +18,6 @@
 * [Termo de Referencia - Anexo 6](chapter-termo-referencia-anexo6.md)
 * [Termo de Referencia - Anexo 7](chapter-termo-referencia-anexo7.md)
 * [Termo de Referencia - Anexo 8](chapter-termo-referencia-anexo8.md)
-* [Catálogo de Serviços de Portais Web](anexo-catalogo.md)
-* [Minuta de Contrato](anexo-minuta-contrato.md)
+* [Catálogo de Serviços de Portais Web](anexo-catalogo.md)  
+* [Aprovação do Termo de Referencia](chapter-termo-referencia-aprovacao.md)
 
