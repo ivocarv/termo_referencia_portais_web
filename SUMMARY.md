@@ -2,8 +2,8 @@
 
 * [Introdução](README.md)
 * [Documento de Oficialização de Demanda](chapter-dod.md)
-* [Indicação do Integrante Técnico](chapter-indicacao_tec.md)
-* [Indicação do Integrante Administrativo](chapter-indicacao_adm.md)
+* [Indicação do Integrante Técnico](chapter-indicacao-tec.md)
+* [Indicação do Integrante Administrativo](chapter-indicacao-adm.md)
 * [Nomeação da Equipe de Planejamento](chapter-epc-nomeacao.md)
 * [Planejamento da Contratação - Análise de Viabilidade](chapter-epc-analise-viabilidade.md)
 * [Planejamento da Contratação - Análise de Risco](chapter-epc-analise-risco.md)
