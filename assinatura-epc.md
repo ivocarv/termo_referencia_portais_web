@@ -1,87 +1,21 @@
-<table width="697" cellpadding="7" cellspacing="0">
-<col width="216">
-<col width="216">
-<col width="221">
-<tr> 
+<table width="100%" cellspacing="0">
 
-<td width="216" bgcolor="#b3b3b3" style="border:  1px solid #000001; padding: 0cm">
-<p align="center" style="margin-top: 0.07cm">
-<font face="Arial Narrow, serif" size="2" style="font-size: 10pt">
-<b>Integrante Requisitante</b></font>
-</p>
+<tr style="border:  1px solid #000000; padding: 5mm">
+<td>
+<p align="center">{{book.epc.integrante_requisitante.nome}}</p>
+<p align="center">Integrante Requisitante</p>
+<p align="center">{{book.epc.integrante_requisitante.siape}}  </p>
 </td>
-
-<td width="216" bgcolor="#b3b3b3" style="border:  1px solid #000001; padding: 0cm">
-<p align="center" style="margin-top: 0.07cm">
-<b>Integrante Técnico</b>
-</p>
+<td>
+<p align="center">{{book.epc.integrante_tecnico.nome}}   </p>
+<p align="center">Integrante Técnico</p>
+<p align="center">{{book.epc.integrante_tecnico.siape}}</p>
 </td>
-
-<td width="221" bgcolor="#b3b3b3" style="border:  1px solid #000001; padding: 0cm">
-<p align="center" style="margin-top: 0.07cm">
-<font face="Arial Narrow, serif"><font size="2" style="font-size: 10pt">
-<b>Área Administrativa</b></font></font>
-</p>
+<td>
+<p align="center">{{book.epc.integrante_administrativo.nome}} </p>
+<p align="center">Integrante Administrativo </p>
+<p align="center">{{book.epc.integrante_administrativo.siape}} </p> 
 </td>
-
-</tr>
-
-<tr>
-
-<td width="216" style="border-top: none; border-bottom: 1px solid #000001; border-left: 1px solid #000001; border-right: none; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.19cm; padding-right: 0cm">
-<p align="center" style="margin-bottom: 0cm"><br></p>
-<p align="center" style="margin-bottom: 0cm">
-<font face="Arial Narrow, serif">
-<font size="2" style="font-size: 10pt">
-</font>
-</font>
-</p>
-<p align="center" style="margin-bottom: 0cm">
-<font color="#000000">
-<font face="Arial Narrow, serif">
-<font size="2" style="font-size: 10pt">{{book.epc.integrante_requisitante.nome}}</font>
-</font>
-</font>
-</p> 
-<p align="center"><br> </p> 
-</td>
-
-<td width="216" height="16" style="border-top: none; border-bottom: 1px solid #000001; border-left: 1px solid #000001; border-right: none; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.19cm; padding-right: 0cm">
-<p align="center" style="margin-bottom: 0cm"><br></p>
-<p align="center" style="margin-bottom: 0cm">
-<font face="Arial Narrow, serif">
-<font size="2" style="font-size: 10pt">
-</font>
-</font>
-</p>
-<p align="center" style="margin-bottom: 0cm">
-<font color="#000000">
-<font face="Arial Narrow, serif">
-<font size="2" style="font-size: 10pt">{{book.epc.integrante_tecnico.nome}}</font>
-</font>
-</font>
-</p>
-<p align="center"><br> </p>
-</td>
-
-<td width="221" height="16" style="border-top: none; border-bottom: 1px solid #000001; border-left: 1px solid #000001; border-right: none; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.19cm; padding-right: 0cm">
-<p align="center" style="margin-bottom: 0cm"><br></p>
-<p align="center" style="margin-bottom: 0cm">
-<font face="Arial Narrow, serif">
-<font size="2" style="font-size: 10pt">
-</font>
-</font>
-</p>
-<p align="center" style="margin-bottom: 0cm">
-<font color="#000000">
-<font face="Arial Narrow, serif">
-<font size="2" style="font-size: 10pt">{{book.epc.integrante_administrativo.nome}}</font>
-</font>
-</font>
-</p>
-<p align="center"><br> </p>
-</td>
-
 </tr>
 
 </table>
