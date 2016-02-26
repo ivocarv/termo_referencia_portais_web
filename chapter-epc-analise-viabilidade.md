@@ -1,11 +1,12 @@
 {% include "./cabecalho.md" %}
-#ANÁLISE DE VIABILIDADE DAS SOLUÇÕES DISPONÍVEIS
+#ANÁLISE DE VIABILIDADE 
+####(Análise de viabilidade das soluções possíveis)
 
 ## Introdução 
 
-A primeira parte deste documento registra os principais requisitos da solução de TI a ser ofertada ao requisitante, considerando-se não apenas as necessidades do próprio requisitante mas também aquelas oriundas da área de TI (que, ao final, desenvolve e sustenta da solução dada) bem como pela área administrativa que participa de todo o processo, desde a escolha da solução a ser ofertada até o eventual pagamento de fornecedores.
+Este documento registra os principais requisitos da solução de TI a ser ofertada ao requisitante, considerando-se não apenas as necessidades do próprio requisitante mas também aquelas oriundas da área de TI (que, ao final, desenvolve e sustenta da solução dada) bem como da área administrativa que participa de todo o processo, desde a escolha da solução a ser ofertada até o eventual pagamento de fornecedores.
 
-## Requisitos da Solução de Tecnologia da Informação e Comunicação Pretendida
+## Requisitos da Solução Pretendida 
 
 Além das necessidades inicialmente apontadas pelos requisitantes no Documento de Oficialização de Demanda, a equipe de planejamento da contratação identificou as seguintes necessidades:
 
