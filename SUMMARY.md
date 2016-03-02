@@ -15,7 +15,7 @@
 * [TR - Anexo 3 - Catálogo de Serviços](chapter-termo-referencia-anexo3.md)
 * [TR - Anexo 4 - Prazo para execução de Serviços](chapter-termo-referencia-prazo.md)
 * [TR - Anexo 5 - Nívels Mínimos de Serviço](chapter-termo-referencia-nms.md)
-* [TR - Anexo 6 - Termo de Sigilo](chapter-termo-referencia-anexo5.md)
+* [TR - Anexo 6 - Termo de Sigilo](chapter-termo-referencia-termo-sigilo.md)
 * [TR - Anexo 7 - Termo de Ciência](chapter-termo-referencia-termo-ciencia.md)
 * [TR - Anexo 8 - Processos de Trabalho](chapter-termo-referencia-anexo7.md)
 * [TR - Anexo 9 - Unidade de Serviço Técnico](chapter-termo-referencia-anexo8.md)
