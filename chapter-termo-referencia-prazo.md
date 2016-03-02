@@ -2,11 +2,5 @@
 
 #PRAZOS DE ATENDIMENTO DOS SERVIÇOS
 
-## Níveis Mínimos de Serviço
-
-{% include "./nms.html" %}
-
-## Níveis Mínimos de Serviço
-
-{% include "./nms.html" %}
+{% include "./prazos.html" %}
 
