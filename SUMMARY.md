@@ -9,7 +9,7 @@
 * [Planejamento da Contratação - Análise de Risco](chapter-epc-analise-risco.md)
 * [Planejamento da Contratação - Plano de Sustentação](chapter-epc-plano-sustentacao.md)
 * [Encaminhamento do Termo de Referencia](chapter-termo-referencia-encaminhamento.md)
-* [TR - Termo de Referencia](chapter-termo-referencia.md)
+* [TR - Termo de Referencia](chapter-tr.md)
 * [TR - Anexo 1 - Modelo para propostas](chapter-termo-referencia-modelo-proposta.md)
 * [TR - Anexo 2 - Declaração de Proposta Independente](chapter-termo-referencia-anexo2.md)
 * [TR - Anexo 3 - Catálogo de Serviços](chapter-termo-referencia-anexo3.md)
