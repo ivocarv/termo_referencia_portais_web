@@ -1,6 +1,6 @@
 {% include "./cabecalho.md" %}
 
-#CATALOGO DE SERVIÇOS
+#CATÁLOGO DE SERVIÇOS
 
 {% include "./catalogo-de-servicos.html" %}
 
