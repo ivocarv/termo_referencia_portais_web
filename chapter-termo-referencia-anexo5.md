@@ -1,7 +1,6 @@
 {% include "./cabecalho.md" %}
-#ANEXO V – DO TERMO DE REFERÊNCIA
 
-**MODELO DO TERMO DE SIGILO**
+#TERMO DE SIGILO
 
 O(a) Sr.(a) ....................................................... CPF nº..................................... endereço .........................................................................................., profissional responsável pela execução do contrato nº \_\_\_\_\_\_\_\_\_/\_\_\_\_\_, **DECLARA**, sob as penalidades da lei, que está ciente das normas de segurança vigentes na CTI/DPF e que se compromete: 
 
