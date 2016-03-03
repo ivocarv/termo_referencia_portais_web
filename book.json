@@ -44,10 +44,9 @@
             "unidade_menor": "DINF – SERVIÇO DE DESENVOLVIMENTO DE SISTEMAS"
         },
 	"epc": {
-	    "data_constituicao": "15 de Janeiro de 2016",
             "integrante_requisitante": {
                 "nome": "Claudio Augusto Cunha Nascimento",
-                "cargo": "Agende de Polícia Federal",
+                "cargo": "Agente de Polícia Federal",
                 "funcao": "",
                 "lotacao": "DCS/DPF",
                 "telefone": "(61) 2024-xxxx",
@@ -57,7 +56,7 @@
             "integrante_tecnico": {
                 "nome": "Luiz Geraldo Silva Braz",
                 "cargo": "Perito Criminal Federal",
-                "funcao": "",
+                "funcao": "Portais Corporativos",
                 "lotacao": "SDS/DINF/CGTI/DPF",
                 "telefone": "(61) 2024-9455",
                 "email": "luiz.lgsb@dpf.gov.br",
@@ -85,10 +84,28 @@
 	    }
 	},
 	"area_tecnica": {
-            "responsavel": {
+            "responsavel_n1": {
+                "nome": "Solange Berto de Menezes",
+                "cargo": "Perita Criminal Federal",
+                "funcao": "Chefe do Servico de Desenvolvimento de Software",
+                "lotacao": "SDS/DINF/CGTI/DPF",
+                "telefone": "(61) 2024-xxxx",
+                "email": "cgti.dinf.sds@dpf.gov.br",
+                "siape": "00000"
+	    },
+            "responsavel_n2": {
+                "nome": "Dell Luiz",
+                "cargo": "Perito Criminal Federal",
+                "funcao": "Chefe da Divisão de Informática",
+                "lotacao": "DINF/CGTI/DPF",
+                "telefone": "(61) 2024-xxxx",
+                "email": "cgti.dinf@dpf.gov.br",
+                "siape": "00000"
+	    },
+            "responsavel_n3": {
                 "nome": "Marcelo Fortes de Azambuja",
                 "cargo": "Perito Criminal Federal",
-                "funcao": "Coordenador Geral de Tecnologia da Informação",
+                "funcao": "Coordenador-Geral de TI",
                 "lotacao": "CGTI/DPF",
                 "telefone": "(61) 2024-xxxx",
                 "email": "cgti@dpf.gov.br",
@@ -109,7 +126,6 @@
 	"demanda": {
 	    "nome": "Desenvolvimento e sustentação de portais web.",
 	    "tipo": "Serviço de natureza continuada sem alocação de mão de obra fixa.",
-	    "setor_requisitante": "Divisão de Comunicação Social",
             "data_solicitacao": {
 		"completa": "12 de Janeiro de 2016",
 		"dia": "12",

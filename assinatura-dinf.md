@@ -1,3 +1,8 @@
-**{{book.area_tecnica.responsavel.nome}}**
-{{book.area_tecnica.responsavel.funcao}}
-{{book.area_tecnica.responsavel.siape}}
+<div align="center">
+<b>
+{{book.area_tecnica.responsavel_n2.nome}}<br/>  
+{{book.area_tecnica.responsavel_n2.funcao}}<br/> 
+{{book.area_tecnica.responsavel_n2.lotacao}}<br/> 
+SIAPE: {{book.area_tecnica.responsavel_n2.siape}}<br/>   
+</b>
+

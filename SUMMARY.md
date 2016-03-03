@@ -8,7 +8,6 @@
 * [Planejamento da Contratação - Análise de Viabilidade](chapter-epc-analise-viabilidade.md)
 * [Planejamento da Contratação - Análise de Risco](chapter-epc-analise-risco.md)
 * [Planejamento da Contratação - Plano de Sustentação](chapter-epc-plano-sustentacao.md)
-* [Encaminhamento do Termo de Referencia](chapter-termo-referencia-encaminhamento.md)
 * [TR - Termo de Referencia](chapter-tr.md)
 * [TR - Anexo 1 - Modelo para propostas](chapter-termo-referencia-modelo-proposta.md)
 * [TR - Anexo 2 - Declaração de Proposta Independente](chapter-tr-independente.md)
@@ -20,5 +19,6 @@
 * [TR - Anexo 8 - Termo de Ciência](chapter-termo-referencia-termo-ciencia.md)
 * [TR - Anexo 9 - Metodologia de Desenvolvimento](chapter-tr-metodologia.md)
 * [TR - Anexo 10 - Metodologia de Desenvolvimento - Checklist ](chapter-tr-metodologia-checklist.md)
+* [Encaminhamento do Termo de Referencia](chapter-termo-referencia-encaminhamento.md)
 * [Aprovação do Termo de Referencia](chapter-termo-referencia-aprovacao.md)
 

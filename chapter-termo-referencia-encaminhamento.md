@@ -13,7 +13,5 @@
 
 5.  Diante do exposto, submeto à apreciação da DINF/CGTI/DG/DPF.
   
-  
-  
 {% include "./assinatura-sds.md" %}
 
