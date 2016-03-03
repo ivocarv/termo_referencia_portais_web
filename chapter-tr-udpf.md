@@ -1,9 +1,7 @@
 {% include "./cabecalho.md" %}
-# ANEXO VIII – DO TERMO DE REFERÊNCIA
+# UNIDADE DE SERVIÇOS DO DEPARTAMENTO DE POLÍCIA FEDERAL – UDPF
 
-## UNIDADE DE SERVIÇOS DO DEPARTAMENTO DE POLÍCIA FEDERAL – UDPF
-
-### Motivação
+## Motivação
 
 O desenvolvimento e manutenção de portais corporativos utilizando a
 plataforma CMS - Content Management System – não possui métrica
@@ -18,7 +16,7 @@ baseado na experiência do Departamento de Polícia Federal na execução
 dos referidos serviços. A UDPF foi criada para parametrizar o esforço de
 cada item definido no Catálogo de Serviços.
 
-### Descrição
+## Descrição
 
 A UDPF - Unidade de Serviços do Departamento de Polícia Federal - é uma
 unidade para mensuração fundamentada no histórico de ordens de serviço
@@ -41,4 +39,5 @@ que os licitantes, com base nas informações constantes no item 11
 (Estimativa do Volume de Serviços) e no Anexo III (Catálogo de Serviços)
 do Termo de Referência, sejam capazes de estimar o valor unitário da
 UDPF e, consequentemente, o valor de cada item do catálogo de serviços.  
+
 

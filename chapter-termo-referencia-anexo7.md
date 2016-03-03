@@ -1,127 +1,9 @@
 {% include "./cabecalho.md" %}
-# ANEXO VII – DO TERMO DE REFERÊNCIA
+#METODOLOGIA DE DESENVOLVIMENTO DE PORTAIS 
 
-**METODOLOGIA DE DESENVOLVIMENTO DE PORTAIS DA PF**
+##Sumário
 
-SUMÁRIO
-
-**[TERMO DE REFERÊNCIA 1](#_Toc359938902)**
-
-**[1.](#_Toc359938903)**[](#_Toc359938903)[**INTRODUÇÃO
-42**](#_Toc359938903)
-
-**[2.](#_Toc359938904)**[](#_Toc359938904)[**CONCEITOS
-42**](#_Toc359938904)
-
-**[2.1.](#_Toc359938905)**[](#_Toc359938905)[**Fases
-42**](#_Toc359938905)
-
-**[2.2.](#_Toc359938906)**[](#_Toc359938906)[**Papéis
-43**](#_Toc359938906)
-
-**[2.3.](#_Toc359938907)**[](#_Toc359938907)[**Artefatos
-43**](#_Toc359938907)
-
-**[2.4.](#_Toc359938908)**[](#_Toc359938908)[**Atividades
-43**](#_Toc359938908)
-
-**[2.5.](#_Toc359938909)**[](#_Toc359938909)[**Fluxo
-43**](#_Toc359938909)
-
-**[3.](#_Toc359938910)**[](#_Toc359938910)[**PAPÉIS
-43**](#_Toc359938910)
-
-**[3.1.](#_Toc359938911)**[](#_Toc359938911)[**Solicitante
-43**](#_Toc359938911)
-
-**[3.2.](#_Toc359938912)**[](#_Toc359938912)[**Gestor de TI
-43**](#_Toc359938912)
-
-**[3.3.](#_Toc359938913)**[](#_Toc359938913)[**Gerente de Projetos
-44**](#_Toc359938913)
-
-**[3.4.](#_Toc359938914)**[](#_Toc359938914)[**Analista de Portal
-44**](#_Toc359938914)
-
-**[3.5.](#_Toc359938915)**[](#_Toc359938915)[**Analista de Requisitos
-44**](#_Toc359938915)
-
-**[3.6.](#_Toc359938916)**[](#_Toc359938916)[**Desenvolvedor
-45**](#_Toc359938916)
-
-**[3.7.](#_Toc359938917)**[](#_Toc359938917)[**Web designer
-45**](#_Toc359938917)
-
-**[3.8.](#_Toc359938918)**[](#_Toc359938918)[**Analista de Testes
-45**](#_Toc359938918)
-
-**[4.](#_Toc359938919)**[](#_Toc359938919)[**ARTEFATOS
-45**](#_Toc359938919)
-
-**[5.](#_Toc359938920)**[](#_Toc359938920)[**FASES DO DESENVOLVIMENTO
-46**](#_Toc359938920)
-
-**[5.1.](#_Toc359938921)**[](#_Toc359938921)[**FASE 01: Planejamento do
-Projeto 46**](#_Toc359938921)
-
-*[5.1.1.](#_Toc359938922)*[](#_Toc359938922)[*Atividade: Abertura do
-Projeto 46*](#_Toc359938922)
-
-*[5.1.2.](#_Toc359938923)*[](#_Toc359938923)[*Atividade: Detalhamento
-dos Requisitos 47*](#_Toc359938923)
-
-*[5.1.3.](#_Toc359938924)*[](#_Toc359938924)[*MARCO: Validação da OS e
-dos Requisitos do Projeto 47*](#_Toc359938924)
-
-**[5.2.](#_Toc359938925)**[](#_Toc359938925)[**FASE 02: Implantação do
-Portal em ambiente de desenvolvimento 47**](#_Toc359938925)
-
-*[5.2.1.](#_Toc359938926)*[](#_Toc359938926)[*Atividade: Criação do
-ambiente de desenvolvimento. 47*](#_Toc359938926)
-
-*[5.2.2.](#_Toc359938927)*[](#_Toc359938927)[*Atividade: Permissões
-48*](#_Toc359938927)
-
-*[5.2.3.](#_Toc359938928)*[](#_Toc359938928)[*Atividade: Implementação
-dos Requisitos de Identidade Visual 48*](#_Toc359938928)
-
-*[5.2.4.](#_Toc359938929)*[](#_Toc359938929)[*MARCO: Versão do Portal
-para Testes 49*](#_Toc359938929)
-
-**[5.3.](#_Toc359938930)**[](#_Toc359938930)[**FASE 04: Homologação
-49**](#_Toc359938930)
-
-*[5.3.1.](#_Toc359938931)*[](#_Toc359938931)[*Atividade: Teste
-49*](#_Toc359938931)
-
-*[5.3.2.](#_Toc359938932)*[](#_Toc359938932)[*Atividade: Migração para o
-ambiente de homologação 49*](#_Toc359938932)
-
-*[5.3.3.](#_Toc359938933)*[](#_Toc359938933)[*MARCO: Portal em
-homologação 49*](#_Toc359938933)
-
-**[5.4.](#_Toc359938934)**[](#_Toc359938934)[**FASE 05: Implantação do
-portal em ambiente de produção 50**](#_Toc359938934)
-
-*[5.4.1.](#_Toc359938935)*[](#_Toc359938935)[*Atividade: Migração para o
-ambiente de produção 50*](#_Toc359938935)
-
-*[5.4.2.](#_Toc359938936)*[](#_Toc359938936)[*MARCO: Produto Final
-50*](#_Toc359938936)
-
-**[5.5.](#_Toc359938937)**[](#_Toc359938937)[**FASE 06: Transferência de
-Tecnologia 50**](#_Toc359938937)
-
-*[5.5.1.](#_Toc359938938)*[](#_Toc359938938)[*Atividade: Treinar
-Usuários 50*](#_Toc359938938)
-
-*[5.5.2.](#_Toc359938939)*[](#_Toc359938939)[*MARCO: Equipe capacitada
-para uso do portal corporativo 51*](#_Toc359938939)
-
-**[ANEXO I DA METODOLOGIA DE DESENVOLVIMENTO DE PORTAIS
-52](#_Toc359938940)**
-
-1.  INTRODUÇÃO {.western style="margin-right: 0.19cm; margin-top: 0.85cm; margin-bottom: 0.71cm; line-height: 115%"}
+1.  INTRODUÇÃO 
     ==========
 
 Este documento tem o propósito de descrever e normatizar o processo de
@@ -150,9 +32,6 @@ que se encontra acessível pelo *link*:
 [https://svn.dpf.gov.br/sds/portal\_intranet/4-Implantacao/Treinamento/manual\_gestor\_conteudo-1.0.5.pdf](https://svn.dpf.gov.br/sds/portal_intranet/4-Implantacao/Treinamento/manual_gestor_conteudo-1.0.5.pdf),
 no repositório SVN da PF.
 
-\
-\
-
 O documento está organizado nos seguintes capítulos:
 
 -   **Capítulo 1:** breve introdução à metodologia de desenvolvimento de
@@ -174,7 +53,7 @@ O documento está organizado nos seguintes capítulos:
 É importante salientar que este documento deve ter seu uso adaptado ao
 contexto de cada projeto de desenvolvimento e/ou implantação de portais.
 
-2.  CONCEITOS {.western style="margin-right: 0.19cm; margin-top: 0.85cm; margin-bottom: 0.71cm; line-height: 115%"}
+2.  CONCEITOS 
     =========
 
 A Metodologia de Desenvolvimento de Portais - MDP é baseada nos
@@ -256,7 +135,7 @@ de tarefas.
 Apresenta a sequência e a dependência entre as atividades do projeto ao
 longo do tempo.
 
-3.  PAPÉIS {.western style="margin-right: 0.19cm; margin-top: 0.85cm; margin-bottom: 0.71cm; line-height: 115%"}
+3.  PAPÉIS 
     ======
 
     1.  Solicitante {.western align="justify" style="margin-top: 0.64cm; margin-bottom: 0.28cm; line-height: 115%"}
@@ -414,7 +293,7 @@ Técnico responsável por planejar e executar os testes nos portais.
 
 -   Executar e documentar testes.
 
-4.  ARTEFATOS {.western style="margin-right: 0.19cm; margin-top: 0.85cm; margin-bottom: 0.71cm; line-height: 115%"}
+4.  ARTEFATOS 
     =========
 
 O quadro a seguir mostra a lista de artefatos que serão produzidos no
@@ -433,7 +312,7 @@ decorrer das fases, e a localização dos seus templates.
   Manual de Identidade das Intranets   Documento que define a identidade visual base para os portais de intranet.                                                                                                                        GO - Sigla Projeto – Manual de Identidade das Intranets
   ------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------
 
-5.  FASES DO DESENVOLVIMENTO {.western style="margin-right: 0.19cm; margin-top: 0.85cm; margin-bottom: 0.71cm; line-height: 115%"}
+5.  FASES DO DESENVOLVIMENTO 
     ========================
 
 Nas seções seguintes, as fases e respectivas atividades serão
