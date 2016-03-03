@@ -19,6 +19,6 @@
 * [TR - Anexo 7 - Termo de Sigilo](chapter-termo-referencia-termo-sigilo.md)
 * [TR - Anexo 8 - Termo de Ciência](chapter-termo-referencia-termo-ciencia.md)
 * [TR - Anexo 9 - Metodologia de Desenvolvimento](chapter-tr-metodologia.md)
-* [TR - Anexo 10 - Metodologia de Desenvolvimento - Checklist Coleta de Dados](chapter-tr-metodologia-checklist.md)
+* [TR - Anexo 10 - Metodologia de Desenvolvimento - Checklist ](chapter-tr-metodologia-checklist.md)
 * [Aprovação do Termo de Referencia](chapter-termo-referencia-aprovacao.md)
 
