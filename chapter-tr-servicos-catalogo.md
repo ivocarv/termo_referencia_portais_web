@@ -2,6 +2,5 @@
 
 #CATÁLOGO DE SERVIÇOS
 
-{% include "./catalogo-de-servicos.html" %}
-
+{% include "./chapter-tr-servicos-catalogo-HTML.html" %}
 
