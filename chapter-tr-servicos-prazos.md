@@ -2,5 +2,5 @@
 
 #PRAZOS DE ATENDIMENTO DOS SERVIÇOS
 
-{% include "./prazos.html" %}
+{% include "./chapter-tr-servicos-prazos-HTML.html" %}
 
