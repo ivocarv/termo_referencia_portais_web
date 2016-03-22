@@ -1,43 +1,60 @@
 {% include "./cabecalho.md" %}
-# UNIDADE DE SERVIÇOS DO DEPARTAMENTO DE POLÍCIA FEDERAL – UDPF
+# Unidade de Medida de Serviços de Portais (USP) 
 
 ## Motivação
 
-O desenvolvimento e manutenção de portais corporativos utilizando a
-plataforma CMS - Content Management System – não possui métrica
-consagrada no mercado. A adaptação de outras métricas de software, a
-exemplo da Análise de Pontos de Função, tem grandes distorções quando
-aplicadas a este contexto, o que poderia acarretar em riscos à
-contratação. A utilização de banco de horas ou alocação de mão-de-obra
-também não seria adequada, haja vista a subjetividade e ineficiência
-inerente a esses modelos de contratação. Por esse motivo, optou-se pelo
-desenvolvimento de um Catálogo de Serviços de Portais Corporativos
-baseado na experiência do Departamento de Polícia Federal na execução
-dos referidos serviços. A UDPF foi criada para parametrizar o esforço de
-cada item definido no Catálogo de Serviços.
+Durante o planejamento da contratação observou-se que não há métricas consagradas para medir o
+esforço necessário para desenvolver, realizar manutenção (corretiva ou evolutiva) e sustentar a 
+operação de portais corporativos baseados em sistemas gerenciadores de conteúdo 
+(tradução livre de Content Management System).
 
-## Descrição
+O uso de métricas comumente aplicadas na industria de software, tais como Pontos de 
+Função, é considerado inadequado tendo em vista características especificas de 
+portais baseados em CMS, tais como:
+- grande parte da funcionalidade dos portais já vem pronta e faz parte do CMS;
+- o ciclo de produção e entrega de novas funcionalidades normalmente é muito curto;
+- o conceito de "pronto" é diferenciado tendo em vista que o usuário vai construindo o
+ conteúdo e demandando modificações no software enquanto produz mais conteúdo.
+- o processo de teste envolve tanto funcionalidade quanto o próprio conteúdo produzido pelos usuários;
+- o usuário participa ativamente na montagem das interfaces gráficas através do reuso de componentes prontos;
+- o esforço bem como o tipo de atividade realizada para manter o bom funcionamento dos Portais vária muito 
+de acordo com o grau de interesse, de utilização, de habilidade e de conhecimento dos usuários produtores e 
+consumidores de conteúdo;
+- os benefícios gerados por um serviço variam muito de acordo com a possibilidade de reuso daquele serviço;
+- a limiar entre conteúdo/informação e software é muito tênue e sujeito a interpretações diversas;
 
-A UDPF - Unidade de Serviços do Departamento de Polícia Federal - é uma
-unidade para mensuração fundamentada no histórico de ordens de serviço
-da Polícia Federal para desenvolvimento e manutenção de portais
-corporativos. Como qualquer unidade de prestação de serviço, a UDPF
-guarda relação com um volume de esforço humano, dado que é esse o
-principal insumo empregado pela CONTRATADA na execução das demandas. Ela
-equivalente a uma hora de trabalho executada por um Analista de Sistema,
-especialista nas tecnologias especificadas neste Termo de Referência,
-para realização das atividades descritas no Catálogo de Serviços.
+Por sua vez, o pagamento de quaisquer serviços baseado no tempo dispendido para realizá-lo também é 
+considerado inadequado por conta da ineficiência desse modelo de contratação, amplamente estudada 
+e objeto de recomendações diversas, inclusive do Tribunal de Contas da União.
 
-A partir do histórico de Ordens de Serviço para portais corporativos, a
-PF catalogou os serviços em domínios bem delimitados, estabelecendo as
-atividades e os produtos gerados na execução de cada serviços. Por meio
-do catálogo, é possível demandar, pagar e controlar a qualidade de cada
-serviço individualmente. A UDPF está sendo usada na presente contratação
-para estabelecer a medida de esforço médio, baseada em série histórica
-do DPF, para cada item do catálogo de serviços. Desta forma, espera-se
-que os licitantes, com base nas informações constantes no item 11
-(Estimativa do Volume de Serviços) e no Anexo III (Catálogo de Serviços)
-do Termo de Referência, sejam capazes de estimar o valor unitário da
-UDPF e, consequentemente, o valor de cada item do catálogo de serviços.  
+Assim, a fim de evitar as possíveis distorções advindas da aplicação dos métricas mencionadas,
+desenvolvemos o método de medição de serviços prestados descrito na seção seguinte.
+
+# Medição de Serviços Prestados 
+
+Foi estabelecida uma unidade de medida de esforço específica e única, chamada de **Unidade de
+ Medida de Serviço de Portais** ou **USP**, usada para quantificar, 
+o esforço necessário para realizar quaisquer atividades típica de processos de 
+portais baseados em CMS (desenvolvimento, manutenção e sustentação).
+
+O **Catálogo de Serviços de Portais**, lista e descreve cada uma das atividades típicas
+identificadas bem como atribui, a cada uma delas, uma quantidade relativa de esforço em USPs. 
+
+Os valores atribuídos foram determinados a partir do histórico de ordens de serviço 
+de contratos similares e a partir da experiência de consumidores e 
+fornecedores desse tipo de serviço. Foram considerados não apenas o tempo
+médio para a realização de cada atividade mas também o grau de especialização
+e experiência requerido para a execução, o que impacta no custo do fornecedor.
+Também foi levado em consideração o grau de importância/criticidade/urgência
+de cada atividade para a consecução do objetivo do contratante, qual seja,
+o bom funcionamento dos Portais.
+ 
+Por meio do Catálogo de Serviços de Portais, é possível demandar, pagar e 
+controlar a qualidade e a quantidade de cada serviço, individualmente. 
+
+Espera-se que os licitantes, com base na Estimativa do Volume
+de Serviços e no Catálogo de Serviços, sejam capazes de estimar o 
+preço a ser cobrado por USP e participar da licitação.
+
 
 
