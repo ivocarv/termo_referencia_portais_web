@@ -20,12 +20,13 @@ Essa documentação foi preparada tendo como referência:
 1. Decreto nº 8.538/2015 - Regulamenta o tratamento favorecido, diferenciado e simplificado às Micro e Pequenas Empresas;  
 1. Portaria 779/2009-DG/DPF - Institui a Política de Segurança da Informação da Polícia Federal;
 1. Documentos publicados pelo Tribunal de Contas da União; 
-1. Documentos publicados pela Controladoria Geral da anião;
-   
-   
-   
+1. Documentos publicados pela Controladoria Geral da União;
+    
+      
+     
 Brasília, {{book.planejamento_da_contratacao.data_finalizacao.completa}}  
    
     
-     
+   
+        
 {% include "./assinatura-epc.md" %}
