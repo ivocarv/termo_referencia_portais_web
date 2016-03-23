@@ -23,10 +23,3 @@ Essa documentação foi preparada tendo como referência:
 1. Documentos publicados pela Controladoria Geral da União;
     
       
-     
-Brasília, {{book.planejamento_da_contratacao.data_finalizacao.completa}}  
-   
-    
-   
-        
-{% include "./assinatura-epc.md" %}

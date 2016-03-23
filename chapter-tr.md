@@ -261,9 +261,6 @@
         pelo menos uma pessoa jurídica que seja sócia ou possua vínculo
         com a LICITANTE ou empresa emitente do atestado.
 
-\
-\
-
 9.  **DESCRIÇÃO DOS SERVIÇOS A SEREM CONTRATADOS**
 
     1.  Nos moldes atuais, o escopo do objeto no âmbito do contrato já
@@ -484,13 +481,7 @@
 
     9.000 (Nove mil)
 
-    \
-
-    \
-
     Valor por extenso:
-
-    \
 
 2.  Os valores do quadro foram estimados com base nos preços obtidos a
     partir da realização de pesquisa de mercado, contemplando todos os
@@ -509,23 +500,10 @@
     1.  Tipos de Portais
 desenho dos tipos de portais....
 
-\
-\
 
 2.  Total de demandas por Categoria – ano 2012
 
 total de demandas por....
-\
-\
-
-\
-\
-
-\
-\
-
-\
-\
 
 3.  Sazonalidade – ano 2012
 
@@ -1576,19 +1554,20 @@ VP = Valor da parcela em atraso.
     1.  Termo de Referência e seus Anexos;
     2.  Proposta apresentada pela CONTRATADA;
 
-30. **DOS CASOS OMISSOS**
+**DOS CASOS OMISSOS**
 
-    1.  A execução do contrato, decorrente da contratação, bem como os
-        casos nele omissos, regular-se-ão pelas cláusulas contratuais e
-        pelos preceitos de direito público, aplicando-se-lhes,
-        supletivamente, os princípios da Teoria Geral dos Contratos e as
-        disposições de direito privado, na forma do art. 54 da Lei n.º
-        8.666/93, combinado com o inciso XII do art. 55 do mesmo diploma
-        legal.
+1.  A execução do contrato, decorrente da contratação, bem como os
+    casos nele omissos, regular-se-ão pelas cláusulas contratuais e
+    pelos preceitos de direito público, aplicando-se-lhes,
+    supletivamente, os princípios da Teoria Geral dos Contratos e as
+    disposições de direito privado, na forma do art. 54 da Lei n.º
+    8.666/93, combinado com o inciso XII do art. 55 do mesmo diploma legal.
 
-Brasília, 05 de abril de 2013.
 
-APROVO o presente Termo de Referência conforme o disposto no art. 9°do Dec. 5450/2005.
+Brasília, {{book.demanda.data_final_planejamento.completa}}
 
-Coordenador-Geral de Tecnologia da Informação - substituto
+
+
+{% include "./assinatura-epc.md" %}
+
 

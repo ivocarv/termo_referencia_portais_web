@@ -16,8 +16,9 @@
 * [TR - Anexo - Descrição de Serviços](chapter-tr-servicos-descricao.md)
 * [TR - Anexo - Prazo para execução de Serviços](chapter-tr-servicos-prazos.md)
 * [TR - Anexo - Nívels Mínimos de Serviço](chapter-tr-servicos-nms.md)
-* [TR - Anexo - Termo de Sigilo](chapter-termo-referencia-termo-sigilo.md)
-* [TR - Anexo - Termo de Ciência](chapter-termo-referencia-termo-ciencia.md)
-* [Encaminhamento do Termo de Referencia](chapter-termo-referencia-encaminhamento.md)
-* [Aprovação do Termo de Referencia](chapter-termo-referencia-aprovacao.md)
+* [TR - Anexo - Termo de Sigilo](chapter-tr-termo-sigilo.md)
+* [TR - Anexo - Termo de Ciência](chapter-tr-termo-ciencia.md)
+* [Encerramento do Planejamento da Contratação](tramitacao-encerramento-pc.md)
+* [Encaminhamento do Planejamento da Contratação](tramitacao-encaminhamento-pc.md)
+* [Aprovação do Planejamento da Contratação](tramitacao-aprovacao-pc.md)
 
