@@ -23,3 +23,10 @@ Para cada item de cada lote:
 * Local e data
 * Assinatura do responsável pela proposta;
 
+## Observações 
+* Portfólio de produtos e serviços, lista de clientes e quaisquer outros
+materiais de divulgação devem ser evitados por não contribuírem na fase
+de seleção de fornecedor;
+* É necessário anexar à Proposta a Declaração de Proposta Independente 
+conforme modelo presente neste Termo de Referência;
+
