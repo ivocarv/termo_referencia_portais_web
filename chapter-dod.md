@@ -1,10 +1,10 @@
-{% include "./cabecalho.md" %}
+{% include "./cabecalho_requisitante.md" %}
 #DOCUMENTO DE OFICIALIZAÇÃO DE DEMANDA
 
 ##Identificação da Demanda
 **Nome:** {{book.demanda.nome}}   
 **Tipo:** {{book.demanda.tipo}}  
-**Setor Requisitante:** {{book.demanda.setor_requisitante}} 
+**Setor Requisitante:** {{book.area_requisitante.nome}} 
 
 ##Alinhamento Estratégico
 O atendimento desta demanda está alinhado com os seguintes itens do Planejamento Estratégico do Órgão:

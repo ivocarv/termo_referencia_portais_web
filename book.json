@@ -50,7 +50,7 @@
                 "funcao": "",
                 "lotacao": "DCS/DPF",
                 "telefone": "(61) 2024-xxxx",
-                "email": "claudio.cacndpf.gov.br",
+                "email": "noone@dpf.gov.br",
                 "siape": "00000"
             },
             "integrante_tecnico": {
@@ -113,6 +113,7 @@
 	    }
 	},
 	"area_requisitante": {
+            "nome": "Divisão de Comunicação Social", 
             "responsavel": {
                 "nome": "Nome do Chefe de Divisão",
                 "cargo": "Cargo do Servidor",
