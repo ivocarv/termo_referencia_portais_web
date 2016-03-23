@@ -1,5 +1,4 @@
-{% include "./cabecalho.md" %}
-
+{% include "./cabecalho_epc.md" %}
 #PLANO DE SUSTENTAÇÃO
 
 ##Introdução

@@ -1,5 +1,4 @@
-{% include "./cabecalho.md" %}
-
+{% include "./cabecalho_epc.md" %}
 #DETALHAMENTO DOS SERVIÇOS DO CATÁLOGO
 
 Nos itens seguintes detalhamos alguns dos serviços listados no Catálogo de Serviços a contratar.  

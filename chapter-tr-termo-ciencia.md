@@ -1,6 +1,5 @@
-{% include "./cabecalho.md" %}
-
-#TERMO DE CIÊNCIA
+{% include "./cabecalho_epc.md" %}
+#TERMO DE CIÊNCIA (MODELO)
 
 **Contrato nº**  
 **Objeto:**  
