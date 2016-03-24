@@ -23,3 +23,7 @@ Essa documentação foi preparada tendo como referência:
 1. Documentos publicados pela Controladoria Geral da União;
     
       
+O documento está dividido em três partes:
+* Parte 1: Apresentação e Tratamento da Demanda
+* Parte 2: Planejamento da Contratação
+* Parte 3: Aprovação do Planejamento da Contratação
