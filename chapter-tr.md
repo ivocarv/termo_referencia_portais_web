@@ -4,22 +4,24 @@
 1.  **FUNDAMENTOS LEGAIS**
 
     1.  A contratação do objeto deste Termo de Referência tem amparo
-        legal na Lei nº 10.520 de 17 de julho de 2002, publicada no
-        Diário Oficial da União, de 18 de julho de 2002 e nos decretos
-        nº 5.450, de 31 de maio de 2005 – “Pregão Eletrônico” e Decreto
-        n° 3.555, de 08 de Agosto de 2000, e subsidiariamente nas normas
-        da Lei nº 8.666/93 e suas alterações, bem como as demais
-        condições e exigências contidas neste documento.
-
-    2.  O presente documento foi elaborado em consonância com o Plano
-        Diretor de Tecnologia da Informação e com os princípios contidos
-        nos instrumentos legais vigentes referentes a contratações no
-        âmbito da Administração Pública Federal, notadamente, a
-        Instrução Normativa n° 04, de 10/2010 da Secretaria de Logística
-        e Tecnologia da Informação do Ministério do Planejamento,
-        Orçamento e Gestão.
-
-    3.  Desse modo, contém os elementos essenciais fixados nas referidas
+    legal nos normativos abaixo listados:
+        * O Decreto nº 8.638/2016 que institui a Política de Governança Digital;
+        * A Lei nº 8.666/1993 que institui normas para licitações e contratos administrativos;
+    	* Decreto n° 3.555/2000 que aprova o regulamento para a modalidade de licitação denominada pregão;
+        * Lei nº 10.520/2002 que institui a modalidade de licitação denominada pregão;
+        * Decreto nº 5.450/2005 que regulamenta o pregão, na forma eletrônica;
+        * A IN nº 04/2014-SLTI/MP que dispõe sobre o processo de contratação de Soluções de TI;
+        * A Lei nº 10.176/2001 que dispõe sobre a capacitação e competitividade do setor de tecnologia da informação;
+        * LC nº 123/2006 - Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte;
+        * Decreto nº 7.174/2010 - Regulamenta a contratação de bens e serviços de informática e automação;
+        * Decreto nº 7.546/2011 - Regulamenta a aplicação de margem de preferência e de medidas de compensação para produtos manufaturados e serviços nacionais;
+        * Decreto nº 7.746/2012 - Regulamenta os critérios, práticas e diretrizes para a promoção do desenvolvimento nacional sustentável nas contratações;
+        * Decreto nº 8.538/2015 - Regulamenta o tratamento favorecido, diferenciado e simplificado às Micro e Pequenas Empresas;
+        * Plano diretor de Tecnologia da Informação publicado pela Coordenação Geral de TI da Polícia Federal;
+        * Portaria nº 779/2009-DG/DPF - Institui a Política de Segurança da Informação da Polícia Federal;
+        * Documentos diversos publicados pelo Tribunal de Contas da União;
+        * Documentos diversos publicados pela Controladoria Geral da União;
+    2.  Desse modo, contém os elementos essenciais fixados nas referidas
         normas, descritos de forma a subsidiar os interessados em
         concorrer no certame e a preparar sua documentação aderente a
         contratação em questão.
@@ -28,9 +30,8 @@
 
     1.  Este instrumento tem por objeto a contratação de empresa de
         Tecnologia da Informação e Comunicação (TIC) para prestação de
-        serviços técnicos especializados em desenvolvimento e
-        sustentação dos portais corporativos mantidos pela Coordenação
-        Geral de Tecnologia da Informação da Polícia Federal.
+        serviços técnicos especializados em desenvolvimento, manutenção
+        e sustentação dos portais web corporativos.
 
     2.  Neste processo estão contempladas as atividades que envolvam o
         levantamento de requisitos, projetos, documentação,
