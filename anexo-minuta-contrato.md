@@ -937,8 +937,6 @@ MENSURAÇÃO.
         culpa exclusiva da CONTRATADA, sem prejuízo das perdas e danos
         por ventura verificados.
 
-\
-
 # CLÁUSULA DÉCIMA OITAVA – DO PAGAMENTO
 
     1.  O pagamento será efetuado à empresa, no prazo de até 30 (trinta)

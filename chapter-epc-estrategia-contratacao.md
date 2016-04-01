@@ -1,5 +1,5 @@
 {% include "./cabecalho_epc.md" %}
-#ESTRATÉGIA DA CONTRATAÇÃO
+# ESTRATÉGIA DA CONTRATAÇÃO
 
 ## Descrição da Solução Escolhida 
 ### Descrição Geral

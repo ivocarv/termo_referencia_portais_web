@@ -1,5 +1,5 @@
 {% include "./cabecalho_epc.md" %}
-#TERMO DE SIGILO (MODELO)
+# TERMO DE SIGILO (MODELO)
 
 O(a) Sr.(a) ....................................................... CPF nº..................................... endereço .........................................................................................., profissional responsável pela execução do contrato nº \_\_\_\_\_\_\_\_\_/\_\_\_\_\_, **DECLARA**, sob as penalidades da lei, que está ciente das normas de segurança vigentes na CTI/DPF e que se compromete: 
 

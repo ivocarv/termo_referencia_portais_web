@@ -3,7 +3,10 @@
     "title": "Planejamento de Contratação de Portais Web",
     "description": "Este documento registra o planejamento da contratação de Serviços de Desenvolvimento, Evolução/Manutenção e Sustentação de Portais Web.",
     "plugins": [
-	"autocover"
+	"autocover",
+	"mermaid",
+	"anchors",
+	"heading-anchors"
     ],
     "pluginsConfig": {
 	        "autocover": {
@@ -12,14 +15,14 @@
     			"font": {
        		 		"size": null,
        		 		"family": "Impact",
-       		 		"color": "#FFF"
+       		 		"color": "#000000"
     			},
     			"size": {
        		 		"w": 1800,
        		 		"h": 2360
     			},
     			"background": {
-       		 		"color": "#09F"
+       		 		"color": "#f4eacc"
     			}
        		}
     },
