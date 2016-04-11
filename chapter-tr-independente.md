@@ -1,5 +1,5 @@
 {% include "./cabecalho_proponente.md" %}
-# DECLARAÇÃO DE PROPOSTA INDEPENDENTE (MODELO)
+## DECLARAÇÃO DE PROPOSTA INDEPENDENTE (MODELO)
 
 **(Identificação completa do representante da licitante)**, como
 representante devidamente constituído de **(Identificação completa da

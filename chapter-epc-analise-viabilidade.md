@@ -1,18 +1,18 @@
 {% include "./cabecalho_epc.md" %}
-# ANÁLISE DE VIABILIDADE DAS SOLUÇÕES PROPOSTAS
+## ANÁLISE DE VIABILIDADE DAS SOLUÇÕES PROPOSTAS
 
-## Introdução 
+### Introdução 
 
 Este documento registra os principais requisitos da solução de TI a ser ofertada ao requisitante bem como levanta as possíveis soluções para a demanda e analisa a viabilidade de adoção de cada uma.
   
 A análise considera não apenas as necessidades do próprio requisitante, já registradas no documento de oficialização de demanda, mas também aquelas oriundas das áreas de Técnica e Administrativa que, ao final entregam a solução para a demanda.
 
-## Requisitos da Solução Pretendida 
+### Requisitos da Solução Pretendida 
 
 Além das necessidades inicialmente apontadas pelos requisitantes no Documento de Oficialização de Demanda, a equipe de planejamento da contratação identificou as seguintes necessidades:
 
-### Requisitos Funcionais (serviço fornecido) 
-#### Serviço de Desenvolvimento
+#### Requisitos Funcionais (serviço fornecido) 
+##### Serviço de Desenvolvimento
 * Desenvolvimento de novos portais;
 * Desenvolvimento de novas funcionalidades para portais preexistentes;
 * Alteração de funcionalidades de portais preexistentes;
@@ -21,13 +21,13 @@ Além das necessidades inicialmente apontadas pelos requisitantes no Documento d
 * Incorporação a portais novos e\ou preexistentes de conteúdo ou código livre desenvolvido por terceiros;
 * Desenvolvimento de correções de erros em portais novos ou preexistentes;
 
-#### Serviço de Sustentação de Portais 
+##### Serviço de Sustentação de Portais 
 * Monitoração do funcionamento dos portais novos ou preexistentes em operação;
 * Identificação de causa e solução para falhas de operação identificadas;
 * Sustentação do funcionamento de portais novos ou preexistentes em operação;
 * Aplicação de atualizações corretivas ou evolutivas no portais em operação;
 
-#### Serviço de Suporte 
+##### Serviço de Suporte 
 * Desenvolvimento e distribuição de material instrucional (multimédia) para usuários, editores de conteúdo e/ou administradores dos portais;
 * Realização de treinamentos presenciais ou à distância, para usuários, editores e/ou administradores de portais;
 * Atendimento de dúvidas de usuários, editores e/ou administradores de portais, via telefone ou mensagens;  
@@ -35,53 +35,53 @@ Além das necessidades inicialmente apontadas pelos requisitantes no Documento d
 os portais suportados;
 * Extração, transformação, reorganização e carga de conteúdos multimédia (incluindo textos), de e para portais preexistente ou novos;
 
-### Requisitos de Nível de Serviço
-#### Serviço de Desenvolvimento
+#### Requisitos de Nível de Serviço
+##### Serviço de Desenvolvimento
 * As entregas devem ser feitas com agilidade suficiente para não frustrar os requisitantes;
 * A qualidade das entregas deve ser suficiente para atender requisitantes e usuários dos Portais;
 
-#### Serviço de Sustentação
+##### Serviço de Sustentação
 * É necessário garantir um mínimo de disponibilidade aos Portais (uptime);
 * Os procedimentos de controle de acesso aos Portais deve minimizar o chance de acesso indevido a informações e serviços; 
 * A aplicação de manutenções corretivas deve ser feita com agilidade satisfatória;  
 
-#### Serviço de Suporte
+##### Serviço de Suporte
 * Os usuários (incluindo editores e administradores) devem receber suporte suficiente para acessar e usar as informações e serviços disponibilizados;  
 
-### Requisitos Tecnológicos 
+#### Requisitos Tecnológicos 
 
-#### Gerais
+##### Gerais
 * Os Portais devem acompanhar a evolução tecnológica da Internet o suficiente para não frustrar os usuários;
 
-#### Arquiteturais 
+##### Arquiteturais 
 * A arquitetura dos portais deve ser composta, sempre que possível e predominantemente, por componentes que sejam Software Livre;
 * A Contratada deve privilegiar o uso de Software Livre e de Padrões e Formatos Abertos de modo a minimizar a chance de aprisionamento tecnológico;
 * Os geração de programas deve ser feita em formato texto e através de software livre;
 * O geração de conteúdo multimídia devem ser feita em formatos abertos e através de software livre;
 * A troca de informação inter e intra sistemas deve ser feita através de padrões de comunicação e de mensagens em formatos aberto;
 
-### Requisitos de Qualidade
+#### Requisitos de Qualidade
 
-#### Confiabilidade
+##### Confiabilidade
 
-#### Eficiência
+##### Eficiência
 
-#### Segurança
+##### Segurança
 * Os portais produzidos devem ser suficientemente seguros para tornar irrelevantes as chances de ataques, sobretudo os de Internet em que o risco é maior. 
 * As correções de problemas de segurança devem ser identificadas e aplicadas com a celeridade para minimizar os riscos;
 * Os membros da Contratada devem se portar de modo apropriado, minimizando os riscos à segurança dos sistemas, informações, instalações e outros ativos do Contratante.
 * Os Portais devem se construídos usando-se Software Livre a fim de minimizar a dependência de fornecedores ou profissionais específicas;
 * Aderir aos princípios e procedimentos elencados na Política de Segurança da Informação da PF, conforme Portaria n° 779/2009-DG/DPF. 
 
-#### Manutenibilidade
+##### Manutenibilidade
 * Devem ser utilizadas técnicas e processos de engenharia de software capazes de produzir software de qualidade;
 * Devem ser utilizados software básico de qualidade;
 
-#### Usabilidade
+##### Usabilidade
 * Os Portais mantidos devem ser intuitivos e fáceis de usar, mesmo por cidadãos poucas habilidades e conhecimentos em informática;
 * Os Portais mantidos devem ser, na medida do possível, acessíveis por pessoas portadoras de necessidades especiais;
 
-### Requisitos de Sustentabilidade
+#### Requisitos de Sustentabilidade
 * Os dispêndios necessários para a plena execução do contrato devem ser suficientemente limitados para não comprometer a capacidade financeira do Contratante;
 * Analogamente, a remuneração e as condições de prestação do serviço devem ser suficientemente atrativos para não comprometer a operação do Contratado; 
 e a sustentabilidade do funcionamento dos Portais disponibilizados;
@@ -119,15 +119,15 @@ Treinar moderadores e publicadores de conteúdo.
 Requisitos de Segurança 
 Aderir aos princípios e procedimentos elencados na Política de Segurança da Informação da PF, conforme Portaria n° 779/2009-DG/DPF. 
 
-## Levantamento das Soluções Disponíveis
+### Levantamento das Soluções Disponíveis
 
-### Solução 1: Contratação de Empresa Especializada 
+#### Solução 1: Contratação de Empresa Especializada 
 Trata-se da contratação de serviços técnicos de empresas especializadas em desenvolvimento e sustentação de Portais Corporativos.
 
-### Solução 2: Recrutamento e Capacitação de Servidores 
+#### Solução 2: Recrutamento e Capacitação de Servidores 
 Trata-se de recrutar e capacitar servidores da PF para que eles mesmos desenvolvam e sustentem os Portais Corporativos.
 
-## Avaliação das Soluções Disponíveis
+### Avaliação das Soluções Disponíveis
 
 <table>
 <tr>
@@ -174,15 +174,15 @@ Trata-se de recrutar e capacitar servidores da PF para que eles mesmos desenvolv
 </tr>
 </table>
 
-## Justificativa da Solução Escolhida 
+### Justificativa da Solução Escolhida 
 
 Optou-se pela solução 1 pois o efetivo do órgão é limitado e dificilmente haveria pessoal disponível para atender a demanda.
 
-## Alinhamento com as necessidades de negócio
+### Alinhamento com as necessidades de negócio
 
 Entendemos que a solução está plenamente alinhada com as necessidades do negócio.
 
-## Benefícios Esperados
+### Benefícios Esperados
 
 * Garantia de continuidade dos serviços prestados à população usuária dos Portais de Internet;  
 * Garantia de continuidade dos serviços prestados aos usuários dos Portais de Intranet; 
@@ -194,7 +194,7 @@ Entendemos que a solução está plenamente alinhada com as necessidades do neg�
 * Indução do desenvolvimento empresarial no setor de Tecnologia da Informação;
 * Geração de emprego de qualidade no Brasil;
 
-# Avaliação das Necessidades de Adequação para Execução Contratual
+## Avaliação das Necessidades de Adequação para Execução Contratual
 ~~Falta entender o que se quer aqui~~
 
 

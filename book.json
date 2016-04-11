@@ -5,8 +5,7 @@
     "plugins": [
 	"autocover",
 	"mermaid",
-	"anchors",
-	"heading-anchors"
+	"numbered-headings"
     ],
     "pluginsConfig": {
 	        "autocover": {

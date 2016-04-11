@@ -1,6 +1,6 @@
 {% include "./cabecalho.md" %}
 
-# ENCAMINHAMENTO DE TERMO DE REFERÊNCIA
+## ENCAMINHAMENTO DE TERMO DE REFERÊNCIA
 
 1.  Trata-se de processo aquisitivo de bens e serviços de tecnologia da informação, sujeito às exigências da Instrução Normativa N° 04/2015-SLTI/MPOG.
 

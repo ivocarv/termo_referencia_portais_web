@@ -1,9 +1,9 @@
 {% include "./cabecalho.md" %}
-# INDICAÇÃO DO INTEGRANTE TÉCNICO 
+## INDICAÇÃO DO INTEGRANTE TÉCNICO 
 
 Considerando a relevância e oportunidade da demanda intitulada "{{book.demanda.nome}}", encaminhada à esta Coordenação Geral, **aprovo** a constituição de equipe para planejar a contratação de Solução de Tecnologia da Informação capaz de atender à demanda recebida e **indico** o servidor abaixo identificado como Integrante Técnico da equipe.
 
-## Identificação do Integrante Técnico Indicado
+### Identificação do Integrante Técnico Indicado
 **Nome:** {{book.epc.integrante_tecnico.nome}}  
 **Cargo:** {{book.epc.integrante_tecnico.cargo}}  
 **Lotação:** {{book.epc.integrante_tecnico.lotacao}}  

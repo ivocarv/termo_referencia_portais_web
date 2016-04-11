@@ -1,7 +1,7 @@
 {% include "./cabecalho_requisitante.md" %}
-# DOCUMENTO DE OFICIALIZAÇÃO DE DEMANDA
+## DOCUMENTO DE OFICIALIZAÇÃO DE DEMANDA
 
-## Identificação da Demanda 
+### Identificação da Demanda 
 **Nome:** {{book.demanda.nome}}   
 **Tipo:** {{book.demanda.tipo}}  
 **Setor Requisitante:** {{book.area_requisitante.nome}} 
@@ -9,12 +9,12 @@
 {% mermaid src="./diagram.mermaid" %}
 {% endmermaid %}
 
-## <a name="alinha">Alinhamento Estratégico</a> 
+### Alinhamento Estratégico
 O atendimento desta demanda está alinhado com os seguintes itens do Planejamento Estratégico do Órgão:
 1. Ação estratégica 9.8.2: Melhoria da Infraestrutura e Serviços de TI e Telecomunicações.   
 1. Objetivo 1.3: Garantir a operação e o suporte aos serviços de TI.   
 
-## Necessidades do Requisitante {#id=ALI}
+### Necessidades do Requisitante 
 1. Contar com serviço especializado para, sob demanda e com agilidade,
 capacitar, orientar e dar suporte especializado aos servidores do órgão
 encarregados de produzir e consumir conteúdo digital multimédia nos Portais 
@@ -26,7 +26,7 @@ nos Portais Web do Orgão;
 o funcionamento de Portais Web capazes de prestar informação e 
 serviços digitais; 
 
-## Motivação/Justificativa
+### Motivação/Justificativa
 
 A Administração Pública Federal precisa aprimorar a sua interação com a sociedade 
 a fim de aumentar a eficiência/eficácia, a qualidade e a transparência de suas ações.
@@ -55,14 +55,14 @@ disponibilizar novos portais e serviços capazes de atender demandas internas e 
 já identificadas tanto pela Divisão de Comunicação Social bem como por outras áreas,
 espalhadas pelas diversas diretorias e superintendências do Órgão.
 
-## Resultados 
+### Resultados 
 1. a definir; 
 
-## Encaminhamento {#id}
+### Encaminhamento 
 
 Indico o servidor abaixo identificado para representar o requisitante na Equipe de Planejamento de Contratação de Solução de TI a ser futuramente constituída:
 
-### Identificação do Integrante Requisitante Indicado
+**Identificação do Integrante Requisitante Indicado**
 **Nome:** {{book.epc.integrante_requisitante.nome}}   
 **Cargo:** {{book.epc.integrante_requisitante.cargo}}   
 **Lotação:** {{book.epc.integrante_requisitante.lotacao}}   

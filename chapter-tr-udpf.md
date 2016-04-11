@@ -1,7 +1,7 @@
 {% include "./cabecalho.md" %}
-# Unidade de Medida de Serviços de Portais (USP) 
+## Unidade de Medida de Serviços de Portais (USP) 
 
-## Motivação
+### Motivação
 
 Durante o planejamento da contratação observou-se que não há métricas consagradas para medir o esforço necessário para desenvolver, realizar manutenção (corretiva ou evolutiva) e sustentar a operação de portais corporativos baseados em sistemas gerenciadores de conteúdo (tradução livre de Content Management System).
 
@@ -19,7 +19,7 @@ Por sua vez, o pagamento de quaisquer serviços baseado no tempo dispendido para
 
 Assim, a fim de evitar as possíveis distorções advindas da aplicação dos métricas mencionadas, desenvolvemos o método de medição de serviços prestados descrito na seção seguinte.
 
-# Medição de Serviços Prestados 
+## Medição de Serviços Prestados 
 
 Foi estabelecida uma unidade de medida de esforço específica e única, chamada de **Unidade de Medida de Serviço de Portais** ou **USP**, usada para quantificar, o esforço necessário para realizar quaisquer atividades típica de processos de portais baseados em CMS (desenvolvimento, manutenção e sustentação).  
   

@@ -6,3 +6,7 @@ h3 { margin-top: 0cm; margin-bottom: 0cm; direction: ltr; color: #000000; line-h
 h3.western { font-family: "Arial", serif; font-size: 12pt }
 h3.cjk { font-family: "SimSun"; font-size: 12pt }
 h3.ctl { font-family: "Arial"; font-size: 12pt; font-weight: normal }
+h1:before, h2:before, h3:before, h4:before, h5:before {
+  color: #000000;
+  width: 40px;
+}

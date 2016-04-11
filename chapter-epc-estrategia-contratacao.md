@@ -1,16 +1,16 @@
 {% include "./cabecalho_epc.md" %}
-# ESTRATÉGIA DA CONTRATAÇÃO
+## ESTRATÉGIA DA CONTRATAÇÃO
 
-## Descrição da Solução Escolhida 
-### Descrição Geral
+### Descrição da Solução Escolhida 
+#### Descrição Geral
 Serviço de desenvolvimento, manutenção e sustentação de Portais Corporativos.
 
-### Componentes da Solução
+#### Componentes da Solução
 * xis
 * ypson
 * z
 
-### Definição da Solução
+#### Definição da Solução
 * É possível especificar o serviço usando parâmetros usuais de mercado?
 Sim
 
@@ -23,7 +23,7 @@ Não
 * O objeto da contratação é essencial para o negócio?
 Sim
 
-## Responsabilidade da Contratante
+### Responsabilidade da Contratante
 
 * Acompanhar e fiscalizar o andamento do contrato por intermédio da CGTI;
 * Avaliar, a qualquer tempo, a utilização e desempenho do objeto, ficando
@@ -39,7 +39,7 @@ software que se façam necessários, respeitando as normas que disciplinam
 a segurança do patrimônio, das pessoas e da informação;
 * Realizar os pagamentos em dia
 
-## Responsabilidades da Contratada
+### Responsabilidades da Contratada
 
 * Iniciar a prestação do serviço e/ou a entrega dos bens objeto deste nos
 prazos estabelecidos
@@ -79,30 +79,30 @@ leis e regulamentos pertinentes
 * A subcontratação de serviços de terceiros, por parte da CONTRATADA, só
 será permitida mediante prévia consulta e aceitação por parte da PF.
 
-## Indicação dos Termos Contratuais
+### Indicação dos Termos Contratuais
 
-### Procedimentos e Critérios de Aceitação
+#### Procedimentos e Critérios de Aceitação
 Id| Etapa / Fase / Item | Indicador | Valor Máximo Aceitável
 
-### Estimativa de Volume de Bens e Serviços
+#### Estimativa de Volume de Bens e Serviços
 Id | Bem | Estimativa | Forma de Estimativa
 
-### Metodologia de Avaliação da Qualidade e Adequação
+#### Metodologia de Avaliação da Qualidade e Adequação
 Id | Etapa / Fase / Item | Método de Avaliação | 
 1 | Prestação do Serviço | Adequação às especificações do TR | 
 
-### Inspeções e Diligências
+#### Inspeções e Diligências
 Id | Tipo |  Forma de Exercício
 Não se aplica
 
-### Forma de Pagamento
+#### Forma de Pagamento
 Mensal
 
-### Cronograma de Execução Físico-Financeira 
+#### Cronograma de Execução Físico-Financeira 
 Id | Entrega |  Data de Entrega 		| Percentual Pago
 1  | Mensal  | Data da aceitação definitiva 	| 100,00% da respectiva parcela
 
-### Mecanismos Formais de Comunicação
+#### Mecanismos Formais de Comunicação
 
 Função de Com. 1: Informação de descumprimento de prazos
 Documento: 
@@ -111,40 +111,40 @@ Destinatário: Contratada
 Meio: Papel 
 Periodicidade: Sempre que necessário
 
-### Regras para aplicação de sansões e multas
+#### Regras para aplicação de sansões e multas
 
 Ocorrência: Descumprimento de prazo contratual acordado para atendimento
 Advertência/Multa
 
-### Orçamento Detalhado
+#### Orçamento Detalhado
 Id Bens | Estimativa de Valor Unitário
 1 | R\$
 
-### Adequação Orçamentária
+#### Adequação Orçamentária
 
-### Fonte de Recursos
+#### Fonte de Recursos
 Orçamento próprio do órgão. 
 
-### Estimativa de Impacto Econômico Financeiro
+#### Estimativa de Impacto Econômico Financeiro
 R$ 1.200.000,00 por ano no período que vai de 2016 a 2021
 
-## Julgamento das Propostas
+### Julgamento das Propostas
 
-### Critérios de Habilitação das Propostas 
+#### Critérios de Habilitação das Propostas 
 * Somente serão aceitas as propostas que estiverem em conformidade com 
 as regras estabelecidas no Guia para Elaboração de Propostas.
 
-### Critérios de Seleção
+#### Critérios de Seleção
 * A princípio, será escolhida a proposta que apresentar menor preço global.
 * (Falar de margem de preferência)
 
-## Qualificação Técnica da Proponente
+### Qualificação Técnica da Proponente
 
-### Requisitos de Capacitação e Experiência
+#### Requisitos de Capacitação e Experiência
 * Haver comercializado pelo menos 50% (cinquenta por cento) do
 quantitativo do edital.
 
-### Requisitos de Qualificação das Equipes Técnicas
+#### Requisitos de Qualificação das Equipes Técnicas
 Não se aplica
 
 

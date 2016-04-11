@@ -1,5 +1,5 @@
 {% include "./cabecalho_epc.md" %}
-# TERMO DE CIÊNCIA (MODELO)
+## TERMO DE CIÊNCIA (MODELO)
 
 **Contrato nº**   
 **Objeto:**   

@@ -1,7 +1,7 @@
 {% include "./cabecalho_epc.md" %}
-# TERMO DE REFERÊNCIA 
+## TERMO DE REFERÊNCIA 
 
-## INTRODUÇÃO
+### INTRODUÇÃO
 
 1. Este Termo de Referência consolida o planejamento de contratação de 
 solução de TI feito pela equipe signatária, formalmente designada 
@@ -34,7 +34,7 @@ de planejamento da contratação designada. A saber:
 	planejamento feito.
 
 
-## FUNDAMENTOS LEGAIS
+### FUNDAMENTOS LEGAIS
 
 1. A contratação do objeto deste Termo de Referência tem amparo legal nos normativos abaixo listados:
     * O Decreto nº 8.638/2016 que institui a Política de Governança Digital;
@@ -58,22 +58,22 @@ de planejamento da contratação designada. A saber:
 normas, descritos de forma a subsidiar os interessados em concorrer 
 no certame e a preparar sua documentação aderente a contratação em questão.
 
-## DEFINIÇÃO DO OBJETO
+### DEFINIÇÃO DO OBJETO
 
 1. Este instrumento tem por objeto a contratação de empresa de Tecnologia da Informação e Comunicação (TIC) para prestação de serviços técnicos especializados de Portais Web.
 2. Os serviços a contratar estão relacionados aos processos de desenvolvimento, manutenção (corretiva e evolutiva) e de sustentação da operarção de Portais Web.
 3. O Catálogo de Serviços de Portais Web, em anexo, lista e descreve os serviços a contratar.
 
-## PARTES
+### PARTES
 1.  CONTRATADA: designa a empresa a ser contratada para execução dos serviços especificados neste documento. 
 2.  CONTRATANTE: designa a Polícia Federal - PF. 
 3.  LICITANTE: designa qualquer empresa interessada em participar do presente certame e que reúna as condições estabelecidas.
 
-## OBJETIVO
+### OBJETIVO
 
 1.  O objetivo da presente contratação é garantir a continuidade dos serviços de desenvolvimento e manutenção de portais corporativos, promovendo melhorias no fornecimento de informações aos cidadãos brasileiros e aos servidores da PF por meio dos Portais de Intranet e Internet do Departamento de Polícia Federal. Esta contratação está alinhada com o Programa P05 – Renovação dos atuais contratos de prestação da CGTI – do Plano Diretor de Tecnologia da Informação da Polícia Federal, PDTI 2013-2014.
 
-## FUNDAMENTAÇÃO DA CONTRATAÇÃO
+### FUNDAMENTAÇÃO DA CONTRATAÇÃO
 
 1.  JUSTIFICATIVA DA DEMANDA
 	1.  A Administração Pública Federal tem buscado aprimorar as
@@ -145,7 +145,7 @@ no certame e a preparar sua documentação aderente a contratação em questão.
             eficiência, integridade, disponibilidade e conformidade
             legal.
 
-## PARTICIPAÇÃO
+### PARTICIPAÇÃO
 
     1.  Poderão participar deste Pregão os interessados cujo ramo de
         atividade seja compatível com o objeto desta licitação, e que
@@ -173,7 +173,7 @@ no certame e a preparar sua documentação aderente a contratação em questão.
             Brasil com poderes expressos para receber citação e
             responder administrativa ou judicialmente.
 
-## TIPO DE CONTRATAÇÃO
+### TIPO DE CONTRATAÇÃO
 
     1.  Trata-se de previsão para contratação de serviços de TI cujos
         padrões de desempenho e qualidade podem ser objetivamente
@@ -189,7 +189,7 @@ no certame e a preparar sua documentação aderente a contratação em questão.
         de Administração dos Recursos de Tecnologia da Informação -
         SISP, cuja Polícia Federal é integrante.
 
-## ELABORAÇÃO DA PROPOSTA
+### ELABORAÇÃO DA PROPOSTA
 
     1.  A proposta deverá conter o valor unitário da UDPF e o total da
         proposta, expresso em moeda corrente nacional, em algarismo e
@@ -233,7 +233,7 @@ no certame e a preparar sua documentação aderente a contratação em questão.
         parte da LICITANTE, das condições estabelecidas neste
         instrumento e seus Anexos.
 
-## DO ATESTADO DE CAPACIDADE TÉCNICA
+### DO ATESTADO DE CAPACIDADE TÉCNICA
 
     1.  A qualificação técnica deverá ser comprovada pela LICITANTE
         vencedora da fase de lances com a apresentação de atestado(s) de
@@ -273,7 +273,7 @@ no certame e a preparar sua documentação aderente a contratação em questão.
         pelo menos uma pessoa jurídica que seja sócia ou possua vínculo
         com a LICITANTE ou empresa emitente do atestado.
 
-## DESCRIÇÃO DOS SERVIÇOS A SEREM CONTRATADOS
+### DESCRIÇÃO DOS SERVIÇOS A SEREM CONTRATADOS
 
     1.  Nos moldes atuais, o escopo do objeto no âmbito do contrato já
         mencionado neste documento, é executado na modalidade de serviço
@@ -377,7 +377,7 @@ no certame e a preparar sua documentação aderente a contratação em questão.
     envolvidos em cada atividade, uma vez que um profissional pode
     executar diversas tarefas em paralelo.
 
-## DA EXECUÇÃO DOS SERVIÇOS
+### DA EXECUÇÃO DOS SERVIÇOS
 
 1.  A CONTRATADA deverá designar um profissional para atuar como
     Coordenador Técnico (Preposto) que deverá permanecer nas
@@ -472,7 +472,7 @@ no certame e a preparar sua documentação aderente a contratação em questão.
     Serviços – bem como a justa remuneração dos serviços e o interesse
     público.
 
-## ESTIMATIVA DO VOLUME DE SERVIÇOS
+### ESTIMATIVA DO VOLUME DE SERVIÇOS
 
 1.  A tabela abaixo apresenta o volume estimado dos serviços, incluindo
     o custo unitário da UDPF e o valor global. Para estimativa do volume
@@ -524,7 +524,7 @@ sasonalidade
 1.  O volume apresentado entre os meses de setembro a novembro pode ter
     sofrido influência de movimento grevista ocorrido no período.
 
-## TRANSFERÊNCIA DE TECNOLOGIA
+### TRANSFERÊNCIA DE TECNOLOGIA
 
 1.  É parte integrante do escopo da prestação dos serviços toda a
     documentação técnica e de usuário, relativamente ao uso das soluções
@@ -567,7 +567,7 @@ sasonalidade
     as obrigações em relação a todos os danos causados a PF por esta
     falha.
 
-## DOS CRITÉRIOS E DOS PADRÕES A SEREM OBEDECIDOS PELA CONTRATADA
+### DOS CRITÉRIOS E DOS PADRÕES A SEREM OBEDECIDOS PELA CONTRATADA
 
 1.  A Polícia Federal dispõe atualmente de 59 (cinquenta e nove) portais
     corporativos, que estão distribuídos da seguinte forma:
@@ -662,7 +662,7 @@ lista portais
     mercado, nestes casos a PF deve ser comunicado para que se pronuncie
     quanto à aprovação de tal prática.
 
-## DOS PRAZOS E LOCAL DE EXECUÇÃO
+### DOS PRAZOS E LOCAL DE EXECUÇÃO
 
 1.  Em consonância com a IN n° 04/2010 – SLTI, após a assinatura do
     Contrato, o CONTRATANTE convocará por meio dos gestores do Contrato,
@@ -726,7 +726,7 @@ lista portais
     pelo CONTRATANTE, ficam mantidas as condições estipuladas para o
     serviço.
 
-## DA GARANTIA DOS SERVIÇOS
+### DA GARANTIA DOS SERVIÇOS
 
 1.  A CONTRATADA garantirá a disponibilização dos serviços prestados
     durante toda a vigência do Contrato. Nesse período a CONTRATADA se
@@ -746,7 +746,7 @@ lista portais
     contratado, sejam alterados pelo CONTRATANTE ou por empresa por ele
     designada, a garantia cessará apenas para estes produtos.
 
-## SEGURANÇA, SIGILO E PROPRIEDADE DAS INFORMAÇÕES
+### SEGURANÇA, SIGILO E PROPRIEDADE DAS INFORMAÇÕES
 
 1.  Cabe à CONTRATADA estabelecer política de segurança da informação
     própria, em acordo com todas as normas da CONTRATANTE referentes à
@@ -760,7 +760,7 @@ lista portais
     sua ampla responsabilidade pela confidencialidade das informações
     que venham a ser disponibilizadas pela PF.
 
-## ELEMENTOS PARA GESTÃO
+### ELEMENTOS PARA GESTÃO
 
 1.  DA FISCALIZAÇÃO
 
@@ -858,7 +858,7 @@ lista portais
         glosas por infrações, conforme item 23 deste Termo de
         Referência.
 
-## VIGÊNCIA CONTRATUAL
+### VIGÊNCIA CONTRATUAL
 
 1.  O contrato, objeto deste Termo, terá vigência de 12 (doze) meses,
     contados a partir da data de sua assinatura, podendo o CONTRATANTE
@@ -867,7 +867,7 @@ lista portais
     sessenta meses, nos termos do inciso II do art. 57 da Lei 8.666/93,
     considerando a natureza continuada dos serviços ora em contratação.
 
-## REAJUSTE
+### REAJUSTE
 
 1.  Os preços contratados serão fixos e irreajustáveis, exceto na
     hipótese de haver prorrogação de vigência contratual, tendo como
@@ -875,7 +875,7 @@ lista portais
     Amplo – IPCA - nos termos da lei, ou, na falta desse, por índice
     equivalente estabelecido pelo governo federal.
 
-## OBRIGAÇÕES DA CONTRATADA
+### OBRIGAÇÕES DA CONTRATADA
 
 1.  Compete à empresa CONTRATADA, a execução das atividades na forma
     estipulada no Termo de Referência, Edital e Contrato.
@@ -1216,7 +1216,7 @@ lista portais
 28. O não atendimento do disposto nas cláusulas desse item ensejará a
     rescisão unilateral do contrato por parte da administração.
 
-## DAS OBRIGAÇÕES DA CONTRATANTE
+### DAS OBRIGAÇÕES DA CONTRATANTE
 
 1.  Efetuar o pagamento mensal devido pela execução dos serviços, desde
     que cumpridas todas as formalidades e exigências das condições e
@@ -1292,7 +1292,7 @@ lista portais
     a execução dos serviços nas dependências da CONTRATANTE, quando for
     o caso.
 
-## CONTRATO
+### CONTRATO
 
 1.  O contrato terá vigência de 12 (doze) meses a contar da publicação
     do extrato no D.O.U, podendo ser prorrogado por iguais e sucessivos
@@ -1322,7 +1322,7 @@ lista portais
     adjudicatária durante o seu transcurso e desde que ocorra motivo
     justificado e aceito pela PF.
 
-## PROCEDIMENTOS E CRITÉRIOS DE MENSURAÇÃO
+### PROCEDIMENTOS E CRITÉRIOS DE MENSURAÇÃO
 
 1.  A verificação do alcance dos objetivos da PF para a presente
     contratação será feita com a monitoração e controle de Indicadores
@@ -1343,7 +1343,7 @@ tabela NMS
     CONTRATADA, ou que sua justificativa não tenha sido aprovada pela
     PF, implicará em redutor na fatura.
 
-## DOTAÇÃO ORÇAMENTÁRIA
+### DOTAÇÃO ORÇAMENTÁRIA
 
 1.  As despesas decorrentes da contratação do objeto deste Termo de
     Referência correrão à conta dos recursos consignados no Orçamento
@@ -1351,7 +1351,7 @@ tabela NMS
     programas de trabalho e elemento de despesas especificadas constarão
     da respectiva Nota de Empenho.
 
-## DA GARANTIA CONTRATUAL
+### DA GARANTIA CONTRATUAL
 
 1.  Para a execução das obrigações assumidas, a PF exigirá da empresa
     vencedora em até 10 (dez) dias úteis após a assinatura do Contrato,
@@ -1370,7 +1370,7 @@ tabela NMS
     exclusiva da CONTRATADA, sem prejuízo das perdas e danos por ventura
     verificados.
 
-## PAGAMENTO
+### PAGAMENTO
 
 1.  O pagamento será efetuado à empresa, no prazo de até 30 (trinta)
     dias contados a partir da data de apresentação das Notas
@@ -1464,7 +1464,7 @@ VP = Valor da parcela em atraso.
     caso seja a mesma de valor superior ao crédito existente, a
     diferença será cobrada administrativa ou judicialmente.
 
-## SANÇÕES ADMINISTRATIVAS
+### SANÇÕES ADMINISTRATIVAS
 
 1.  No caso da inexecução total ou parcial das obrigações assumidas,
     estará sujeita a empresa adjudicatária às sanções previstas na
@@ -1537,7 +1537,7 @@ VP = Valor da parcela em atraso.
     recolhida no prazo máximo de 10 (dez) dias corridos, a contar da
     data do recebimento da comunicação enviada pela CONTRATANTE.
 
-## ALTERAÇÃO CONTRATUAL
+### ALTERAÇÃO CONTRATUAL
 
 1.  O CONTRATO decorrente da contratação poderá ser alterado na
     ocorrência de qualquer das hipóteses previstas no art. 65 da Lei n°
@@ -1550,7 +1550,7 @@ VP = Valor da parcela em atraso.
     contrato, nos termos dos §§ 1º e 2º, do artigo 65, da Lei nº
     8.666/93, com suas posteriores alterações.
 
-## DA FUNDAMENTAÇÃO LEGAL E DA VINCULAÇÃO À PROPOSTA
+### DA FUNDAMENTAÇÃO LEGAL E DA VINCULAÇÃO À PROPOSTA
 
 1.  O contrato terá a seguinte fundamentação legal: Lei 10.520, de 17 de
     junho de 2002; Decreto 5.450, de 31 de maio de 2005; Decretos n°
@@ -1566,7 +1566,7 @@ VP = Valor da parcela em atraso.
     1.  Termo de Referência e seus Anexos;
     2.  Proposta apresentada pela CONTRATADA;
 
-## DOS CASOS OMISSOS
+### DOS CASOS OMISSOS
 
 1.  A execução do contrato, decorrente da contratação, bem como os
     casos nele omissos, regular-se-ão pelas cláusulas contratuais e

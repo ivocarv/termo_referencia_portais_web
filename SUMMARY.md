@@ -4,12 +4,6 @@
 
 * [Apresentação e Tratamento Inicial da Demanda](parte1.md)
     * [Documento de Oficialização de Demanda](chapter-dod.md)
-	    * [alinha](chapter-dod.md#alinha)
-	    * [ALI](chapter-dod.md#ALI)
-	    * [markdown-header-encaminhamento](chapter-dod.md#markdown-header-encaminhamento)
-	    * [2](chapter-dod.md#2)
-	    * [markdown-header-resultados](chapter-dod.md#markdown-header-resultados)
-	    * [encaminhamento](chapter-dod.md#encaminhamento)
     * [Indicação do Integrante Técnico](tramitacao-indicacao-tec.md)
     * [Indicação do Integrante Administrativo](tramitacao-indicacao-adm.md)
     * [Nomeação da Equipe de Planejamento](tramitacao-nomeacao-epc.md)

@@ -1,9 +1,9 @@
 {% include "./cabecalho.md" %}
-# INDICAÇÃO DO INTEGRANTE ADMINISTRATIVO 
+## INDICAÇÃO DO INTEGRANTE ADMINISTRATIVO 
 
 Indico o servidor abaixo para compor equipe de planejamento de contratação de solução de TI, referente à demanda intitulada "{{book.demanda.nome}}".
 
-## Identificação do Integrante Administrativo Indicado
+### Identificação do Integrante Administrativo Indicado
 **Nome:** {{book.epc.integrante_administrativo.nome}}  
 **Cargo:** {{book.epc.integrante_administrativo.cargo}}  
 **Lotação:** {{book.epc.integrante_administrativo.lotacao}}  
