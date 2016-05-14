@@ -81,6 +81,7 @@ Brasília, {{book.demanda.data_solicitacao.completa}}
 {{book.area_requisitante.responsavel.lotacao}}<br/> 
 SIAPE: {{book.area_requisitante.responsavel.siape}}<br/>   
 </b>
+
 </div>
 
 
