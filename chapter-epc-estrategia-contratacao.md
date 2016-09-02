@@ -1,13 +1,12 @@
 {% include "./cabecalho_epc.md" %}
 ## ESTRATÉGIA DA CONTRATAÇÃO
-
 ### Descrição da Solução Escolhida 
 #### Descrição Geral
 Serviço de desenvolvimento, manutenção e sustentação de Portais Corporativos.
 
 #### Componentes da Solução
 * xis
-* ypson
+* ypslon
 * z
 
 #### Definição da Solução
