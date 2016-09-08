@@ -6,22 +6,22 @@
     "gitbook": ">= 3.0.0",
     "plugins": ["autocover"],
     "pluginsConfig": {
-        "autocover": {
-            "title": "Planejamento de Contratação de Portais Web",
-            "author": "Luiz Geraldo Silva Braz",
-            "font": {
-                "size": null,
-                "family": "Impact",
-                "color": "#000000"
-            },
-            "size": {
-                "w": 1800,
-                "h": 2360
-            },
-            "background": {
-                "color": "#f4eacc"
+            "autocover": {
+                "title": "Planejamento de Contratação de Portais Web",
+                "author": "Luiz Geraldo Silva Braz",
+                "font": {
+                    "size": null,
+                    "family": "Impact",
+                    "color": "#FFF"
+                },
+                "size": {
+                    "w": 1800,
+                    "h": 2360
+                },
+                "background": {
+                    "color": "#999"
+                }
             }
-        }
     },
     "styles": {
         "website": "styles/website.css",
