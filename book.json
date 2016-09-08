@@ -3,14 +3,12 @@
     "title": "Planejamento de Contratação de Portais Web",
     "description": "Este documento registra o planejamento da contratação de Serviços de Desenvolvimento, Evolução/Manutenção e Sustentação de Portais Web.",
     "plugins": [
-	"autocover",
-	"mermaid",
-	"numbered-headings"
+	"autocover"
     ],
     "pluginsConfig": {
 	        "autocover": {
     			"title": "Planejamento de Contratação de Portais Web",
-    			"author": "Luiz Geraldo Silva Braz, et al.",
+    			"author": "Luiz Geraldo Silva Braz",
     			"font": {
        		 		"size": null,
        		 		"family": "Impact",

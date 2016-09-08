@@ -6,9 +6,6 @@
 **Tipo:** {{book.demanda.tipo}}  
 **Setor Requisitante:** {{book.area_requisitante.nome}} 
 
-{% mermaid src="./diagram.mermaid" %}
-{% endmermaid %}
-
 ### Alinhamento Estratégico
 O atendimento desta demanda está alinhado com os seguintes itens do Planejamento Estratégico do Órgão:
 1. Ação estratégica 9.8.2: Melhoria da Infraestrutura e Serviços de TI e Telecomunicações.   
