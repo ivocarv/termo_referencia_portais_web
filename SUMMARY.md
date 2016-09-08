@@ -29,3 +29,5 @@
     * [Encaminhamento do Planejamento da Contratação](tramitacao-encaminhamento-pc.md)
     * [Aprovação do Planejamento da Contratação](tramitacao-aprovacao-pc.md)
 
+* [Glossário](GLOSSARY.md) 
+
