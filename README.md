@@ -1,5 +1,7 @@
 {% include "./cabecalho_epc.md" %}
 
+{.line-numbers}
+
 # INTRODUÇÃO   
 
 O objetivo deste material é documentar o planejamento da contratação de 
